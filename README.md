@@ -62,19 +62,19 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zayennn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayennn&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zayennn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayennn&layout=compact&langs_count=8&theme=dracula&cache_seconds=60"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=zayennn&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=zayennn&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60" alt="GitHub Streak"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayennn&theme=dracula" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayennn&theme=dracula&cache_seconds=60" width="90%"/>
 </div>
 
 ---
@@ -82,7 +82,7 @@ I thrive in team environments where collaboration and continuous learning are ke
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=60" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -112,22 +112,21 @@ I thrive in team environments where collaboration and continuous learning are ke
 ## 🌐 **Connect With Me**
 
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/elang-atha-zahran-100459220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/elang-atha-zahran-100459220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a target="_blank" href="mailto:athazahranel@gmail.com" target="_blank">
+  <a target="_blank" href="mailto:athazahranel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://twitter.com/yourhandle" target="_blank">
+  <a target="_blank" href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://flask-portfolio-production-c2ab.up.railway.app/" target="_blank">
+  <a target="_blank" href="https://flask-portfolio-production-c2ab.up.railway.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
-  <a target="_blank" href="https://www.instagram.com/zaayeenn_/" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/zaayeenn_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
 </div>
 
 ---
