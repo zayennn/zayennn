@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47and826h3relm2a23ojr8cfjbv67r8xu4mg5z52r1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 300px; object-fit: cover;"/>
 </div>
 
-<h1 align="center">✨ Welcome to My GitHub Universe!! ✨</h1>
+<h1 align="center">✨ Welcome to My GitHub Universe! ✨</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%26+React+Specialist;Clean+Code+Advocate;Problem+Solver;Continuous+Learner+%3A)" alt="Typing SVG" /></a>
