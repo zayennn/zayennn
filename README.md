@@ -32,7 +32,7 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 ## 🛠 **Tech Stack & Skills**
 
-### **Frontend Development**
+### Frontend:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,69 +41,35 @@ I thrive in team environments where collaboration and continuous learning are ke
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### **Backend Development**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Backend:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### **Database & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Databases:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zayennn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayennn&layout=compact&langs_count=8&theme=dracula&cache_seconds=60"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=zayennn&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayennn&theme=dracula&cache_seconds=60" width="90%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zayennn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayennn&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zayennn&theme=radical" />
 </div>
 
 ---
 
 ## 🏆 **GitHub Achievements**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=60" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎨 **Featured Projects**
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
-  <div align="center">
-    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="150"/>
-    <h3>Laravel E-Commerce</h3>
-    <p>Full-featured online store with React frontend</p>
-  </div>
-  <div align="center">
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="150"/>
-    <h3>React Dashboard</h3>
-    <p>Admin dashboard with Next.js and Tailwind</p>
-  </div>
-  <div align="center">
-    <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="150"/>
-    <h3>Python Flask API</h3>
-    <p>RESTful API service for mobile applications</p>
-  </div>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -119,7 +85,7 @@ I thrive in team environments where collaboration and continuous learning are ke
   <a target="_blank" href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://flask-portfolio-production-c2ab.up.railway.app/">
+  <a target="_blank" href="https://zayennn.github.io/cosmic-portfolio.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
   <a target="_blank" href="https://www.instagram.com/zaayeenn_/">
