@@ -69,7 +69,7 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 ## 🏆 **GitHub Achievements**
 
-[![GitHub forks](https://img.shields.io/github/forks/zayennn/zayennn?style=social)](https://github.com/zayennn/zayennn/network/members)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
