@@ -77,9 +77,7 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 ## 💼 Contributions
 
-<div align="center"
-  <img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation" />
   
 ---
 
