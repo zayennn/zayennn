@@ -75,13 +75,11 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 ## 💼 Contributions
 
-<img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation" />
-
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayennn/zayennn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zayennn/zayennn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zayennn/zayennn/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 ###
 
