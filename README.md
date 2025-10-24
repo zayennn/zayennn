@@ -73,13 +73,8 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 ## 🏆 **GitHub Achievements**
 
-<div align="center">
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-bg=false&no-frame=false&row=1&margin-w=10&column=-1&title=stars,followers,repositories,commits,contributions" height="150" alt="trophy graph" />
-  
-  <!-- Tambahan: Total Languages Used -->
-  <br/>
-  <img src="https://img.shields.io/badge/Total%20Languages%20Used-6-%23ff005c?style=for-the-badge&logo=github&logoColor=white" alt="Total Languages" />
+<div align="center"> 
+  <img src="https://github-profile-trophy.vercel.app?username=zayennn&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> 
 </div>
 
 ---
