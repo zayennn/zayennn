@@ -94,7 +94,7 @@ I thrive in team environments where collaboration and continuous learning are ke
   <a target="_blank" href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://zayennn.github.io/cosmic-portfolio.github.io/">
+  <a target="_blank" href="https://cosmic-portfolio-iota.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
   <a target="_blank" href="https://www.instagram.com/zaayeenn_/">
