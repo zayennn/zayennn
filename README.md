@@ -75,6 +75,8 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 <div align="center"> 
   <img src="https://github-profile-trophy.vercel.app?username=zayennn&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> 
+  <br/>
+  <img src="https://img.shields.io/badge/Total%20Languages%20Used-6-%23ff005c?style=for-the-badge&logo=github&logoColor=white" alt="Total Languages" />
 </div>
 
 ---
