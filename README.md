@@ -112,6 +112,6 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-  <p>Thanks for visiting! ❤️</p>
+  <p>Thanks for visiting!! ❤️</p>
   <img src="https://komarev.com/ghpvc/?username=zayennn&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
 </div>
