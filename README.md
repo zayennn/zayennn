@@ -64,8 +64,8 @@ I thrive in team environments where collaboration and continuous learning are ke
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zayennn&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zayennn&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-lyart.vercel.app/api?username=zayennn&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-lyart.vercel.app/api/top-langs/?username=zayennn&layout=compact&theme=radical" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zayennn&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -75,7 +75,6 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 <div align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical" />
-  <br/>
 </div>
 
 ---
