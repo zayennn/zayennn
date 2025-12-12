@@ -79,7 +79,10 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 ## 💼 Contributions
 
-<img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation" />
+  <img 
+    src="https://github-profile-trophy-liart-three.vercel.app/?username=zayennn&theme=radical&row=1&column=6"
+    alt="GitHub Trophies"
+  />
   
 ---
 
