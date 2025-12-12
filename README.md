@@ -77,7 +77,7 @@ I thrive in team environments where collaboration and continuous learning are ke
   <img 
     src="https://github-profile-trophy-liart-three.vercel.app/?username=zayennn&theme=radical&row=1&column=6"
     alt="GitHub Trophies"
-  /
+  />
 </div>
 
 ---
