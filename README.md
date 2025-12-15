@@ -74,10 +74,7 @@ I thrive in team environments where collaboration and continuous learning are ke
 ## 🏆 **GitHub Achievements**
 
 <div align="center"> 
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=zayennn&show_icons=true&theme=radical" 
-  alt="GitHub Stats"
-/>
+  ![GitHub Trophy](https://github-profile-trophy-xi-snowy.vercel.app/?username=zayennn&theme=radical&row=1&column=6&v=1)
 </div>
 
 ---
