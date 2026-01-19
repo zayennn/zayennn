@@ -16,7 +16,7 @@
 </div>
 <br>
 
-## 🚀 **About Me**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> **About Me**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300" align="right" alt="Developer GIF"/>
@@ -36,9 +36,9 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 <br>
 
-## 📊 **GitHub Analytics & Contributions**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> **GitHub Analytics & Contributions**
 
-### 📈 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zayennn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayennn&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
@@ -49,7 +49,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
-### 🏆 GitHub Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </div>
@@ -60,7 +60,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 <br>
 
-## 💻 **Tech Stack & Skills**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> **Tech Stack & Skills**
 
 ### 🎨 **Frontend Development**
 <details open>
