@@ -218,7 +218,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   
   ### 🎉 **Thanks for Visiting!**
   
-  <img height="120" src="https://media.giphy.com/media/26tknCqiJrBQG6DrC/giphy.gif" alt="Thank You GIF"/>
+  <img height="120" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Thank You GIF"/>
   
   <h3>⭐ Star my repositories if you find them interesting! ⭐</h3>
   
