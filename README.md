@@ -38,7 +38,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="45" height="45" /> **GitHub Analytics & Contributions**
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="45" height="45" /> GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zayennn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayennn&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
@@ -62,7 +62,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="45" height="45" /> **Tech Stack & Skills**
 
-### 🎨 **Frontend Development**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> **Frontend Development**
 <details open>
 <summary><b>🎯 Click to expand/collapse frontend skills</b></summary>
 <br>
@@ -82,7 +82,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 </details>
 
-### ⚙️ **Backend Development**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Backend Development**
 <details>
 <summary><b>🎯 Click to expand/collapse backend skills</b></summary>
 <br>
@@ -101,7 +101,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 </details>
 
-### 🗄️ **Databases & Tools**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> **Databases & Tools**
 <details>
 <summary><b>🎯 Click to expand/collapse databases & tools</b></summary>
 <br>
