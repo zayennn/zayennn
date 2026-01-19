@@ -38,8 +38,8 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### 🎯 3D Contribution Graph
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api/?username=zayennn&theme=radical&background=0D1117&border_color=58A6FF&turn=5&total=1" width="100%" alt="3D Contribution Graph"/>
-  <p><em>Interactive 3D visualization of my contributions throughout the year</em></p>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  <p><em>3D visualization of my GitHub contributions (auto-generated)</em></p>
 </div>
 
 ### 🏆 GitHub Trophies
