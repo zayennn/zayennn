@@ -38,7 +38,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### 🎯 3D Contribution Graph
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   <p><em>3D visualization of my GitHub contributions (auto-generated)</em></p>
 </div>
 
