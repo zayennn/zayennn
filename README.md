@@ -69,15 +69,15 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 <div align="center">
   
-| Technology | Proficiency | Experience | Icons |
-|------------|-------------|------------|-------|
-| **HTML5** | Advanced | 3+ years | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| **CSS3** | Advanced | 3+ years | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
-| **JavaScript** | Advanced | 3+ years | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
-| **React** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
-| **Tailwind CSS** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
-| **Vite** | Intermediate | 1+ years | <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> |
-| **Bootstrap** | Advanced | 3+ years | <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | Advanced | 3+ years |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | Advanced | 3+ years |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Advanced | 3+ years |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | Intermediate | 2+ years |
+| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | Intermediate | 2+ years |
+| <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> | Intermediate | 1+ years |
+| <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> | Advanced | 3+ years |
 
 </div>
 </details>
@@ -89,14 +89,14 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 <div align="center">
   
-| Technology | Proficiency | Experience | Icons |
-|------------|-------------|------------|-------|
-| **PHP** | Advanced | 3+ years | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |
-| **Laravel** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> |
-| **Python** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
-| **Flask** | Intermediate | 1+ years | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> |
-| **Node.js** | Beginner | 1 year | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> |
-| **TypeScript** | Intermediate | 1+ years | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> |
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> | Advanced | 3+ years |
+| <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> | Intermediate | 2+ years |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | Intermediate | 2+ years |
+| <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> | Intermediate | 1+ years |
+| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | Beginner | 1 year |
+| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | Intermediate | 1+ years |
 
 </div>
 </details>
@@ -108,14 +108,15 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 <div align="center">
   
-| Technology | Proficiency | Experience | Icons |
-|------------|-------------|------------|-------|
-| **MySQL** | Advanced | 3+ years | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
-| **PostgreSQL** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
-| **Git & GitHub** | Advanced | 3+ years | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
-| **VS Code** | Advanced | 3+ years | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
-| **Figma** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> |
-| **Postman** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | Advanced | 3+ years |
+| <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> | Intermediate | 2+ years |
+| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | Advanced | 3+ years |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> | Advanced | 3+ years |
+| <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> | Advanced | 3+ years |
+| <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> | Intermediate | 2+ years |
+| <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> | Intermediate | 2+ years |
 
 </div>
 </details>
@@ -132,10 +133,10 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 | Area | Technology | Status | Progress |
 |------|------------|--------|----------|
-| **Frontend** | React Advanced Patterns | 🟡 **Learning** | ![React Progress](https://img.shields.io/badge/Progress-75%25-blue) |
-| **Backend** | Python Microservices | 🟡 **Learning** | ![Python Progress](https://img.shields.io/badge/Progress-60%25-green) |
-| **Database** | PostgreSQL Optimization | 🟢 **Mastering** | ![DB Progress](https://img.shields.io/badge/Progress-85%25-orange) |
-| **Tools** | Docker Basics | 🔵 **Exploring** | ![Docker Progress](https://img.shields.io/badge/Progress-40%25-lightgrey) |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | 🟡 **Learning** | ![React Progress](https://img.shields.io/badge/75%25-61DAFB?style=flat-square&logo=react&logoColor=white) |
+| **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | 🟡 **Learning** | ![Python Progress](https://img.shields.io/badge/60%25-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> | 🟢 **Mastering** | ![DB Progress](https://img.shields.io/badge/85%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> | 🔵 **Exploring** | ![Docker Progress](https://img.shields.io/badge/40%25-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
@@ -151,11 +152,11 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   
 ### 🔥 **Featured Repositories**
   
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| **[Project One](https://github.com/zayennn/project-one)** | E-commerce platform with Laravel & React | ![Laravel](https://img.shields.io/badge/Laravel-red) ![React](https://img.shields.io/badge/React-blue) ![MySQL](https://img.shields.io/badge/MySQL-orange) | ⭐ |
-| **[Project Two](https://github.com/zayennn/project-two)** | Task management app with Python Flask | ![Python](https://img.shields.io/badge/Python-yellow) ![Flask](https://img.shields.io/badge/Flask-black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) | ⭐ |
-| **[Project Three](https://github.com/zayennn/project-three)** | Portfolio website with modern design | ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) | ⭐ |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Project One](https://github.com/zayennn/project-one)** | E-commerce platform with Laravel & React | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| **[Project Two](https://github.com/zayennn/project-two)** | Task management app with Python Flask | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> |
+| **[Project Three](https://github.com/zayennn/project-three)** | Portfolio website with modern design | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
 
 </div>
 
