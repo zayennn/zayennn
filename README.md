@@ -46,10 +46,10 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </div>
 
-### 📅 Contribution Activity
+<!-- ### 📅 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zayennn&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph"/>
-</div>
+</div> -->
 
 ---
 
@@ -166,11 +166,11 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
     <td>Advanced</td>
     <td>3+ years</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>Docker</td>
     <td>Beginner</td>
     <td>6 months</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>VS Code</td>
     <td>Advanced</td>
@@ -181,50 +181,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ---
 
-## 📂 **Featured Projects**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">✨ Project One</h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="400" height="300" alt="Project One"/>
-        </div>
-        <p align="center">
-          <a href="https://github.com/zayennn/project-one">
-            <img src="https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-          </a>
-          <a href="https://project-one-demo.com">
-            <img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚀 Project Two</h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400" height="300" alt="Project Two"/>
-        </div>
-        <p align="center">
-          <a href="https://github.com/zayennn/project-two">
-            <img src="https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-          </a>
-          <a href="https://project-two-demo.com">
-            <img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>Tech Stack:</strong> Laravel, Vue.js, MySQL</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🎯 **Current Focus**
-
-## 🎯 Current Focus
 
 <table width="100%">
   <tr>
@@ -247,11 +204,11 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
     <td>PostgreSQL Optimization</td>
     <td>🟢 Mastering</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>DevOps</td>
     <td>Docker & CI/CD</td>
     <td>🔵 Exploring</td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
@@ -264,11 +221,11 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 
 <!-- WakaTime Stats (Optional - jika kamu punya WakaTime API) -->
-<!--
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zayennn&theme=radical&layout=compact" alt="WakaTime Stats"/>
 </div>
--->
+
 
 ---
 
