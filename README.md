@@ -221,7 +221,10 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 
 <!-- WakaTime Stats (Optional - jika kamu punya WakaTime API) -->
-[![wakatime](https://wakatime.com/badge/user/zayennn.svg)](https://wakatime.com/@zayennn)
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zayennn&theme=radical&layout=compact" alt="WakaTime Stats"/>
+</div> -->
 
 
 ---
