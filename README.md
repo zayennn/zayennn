@@ -55,60 +55,116 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ## 🛠 **Tech Stack & Skills**
 
-### 🎨 Frontend Development
-<details>
-<summary><b>Click to expand frontend skills</b></summary>
-<br>
-<div align="center">
+<h3 align="center">🎨 Frontend Development</h3>
+<table align="center" width="100%">
+  <tr>
+    <th>Technology</th>
+    <th>Proficiency</th>
+    <th>Experience</th>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>Advanced</td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>CSS3</td>
+    <td>Advanced</td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Advanced</td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>Intermediate</td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>Tailwind CSS</td>
+    <td>Intermediate</td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>Vite</td>
+    <td>Intermediate</td>
+    <td>1+ years</td>
+  </tr>
+</table>
 
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Advanced | 3+ years |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Advanced | 3+ years |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Advanced | 3+ years |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Intermediate | 2+ years |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | Advanced | 3+ years |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Intermediate | 2+ years |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | Intermediate | 1+ years |
+<br/>
 
-</div>
-</details>
+<h3 align="center">⚙️ Backend Development</h3>
+<table align="center" width="100%">
+  <tr>
+    <th>Technology</th>
+    <th>Proficiency</th>
+    <th>Experience</th>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>Advanced</td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>Laravel</td>
+    <td>Intermediate</td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Intermediate</td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>Flask</td>
+    <td>Intermediate</td>
+    <td>1+ years</td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>Beginner</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>Intermediate</td>
+    <td>1+ years</td>
+  </tr>
+</table>
 
-### ⚙️ Backend Development
-<details>
-<summary><b>Click to expand backend skills</b></summary>
-<br>
-<div align="center">
+<br/>
 
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Advanced | 3+ years |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Intermediate | 2+ years |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Intermediate | 2+ years |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | Intermediate | 1+ years |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Beginner | 1 year |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | Intermediate | 1+ years |
-
-</div>
-</details>
-
-### 🗄️ Databases & Tools
-<details>
-<summary><b>Click to expand databases & tools</b></summary>
-<br>
-<div align="center">
-
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Advanced | 3+ years |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Intermediate | 2+ years |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Advanced | 3+ years |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Advanced | 3+ years |
-| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | Advanced | 3+ years |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Beginner | 6 months |
-
-</div>
-</details>
+<h3 align="center">🗄️ Databases & Tools</h3>
+<table align="center" width="100%">
+  <tr>
+    <th>Technology</th>
+    <th>Proficiency</th>
+    <th>Experience</th>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>Advanced</td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>PostgreSQL</td>
+    <td>Intermediate</td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>Git & GitHub</td>
+    <td>Advanced</td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>Docker</td>
+    <td>Beginner</td>
+    <td>6 months</td>
+  </tr>
+</table>
 
 ---
 
@@ -155,16 +211,33 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ## 🎯 **Current Focus**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Learning GIF"/>
-</div>
-
-| Area | Technology | Status |
-|------|------------|--------|
-| **Frontend** | React Advanced Patterns | 🟡 Learning |
-| **Backend** | Microservices with Python | 🟡 Learning |
-| **Database** | PostgreSQL Optimization | 🟢 Mastering |
-| **DevOps** | Docker & CI/CD | 🔵 Exploring |
+<table align="center" width="100%">
+  <tr>
+    <th>Area</th>
+    <th>Technology</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React Advanced Patterns</td>
+    <td>🟡 Learning</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Python Microservices</td>
+    <td>🟡 Learning</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>PostgreSQL Optimization</td>
+    <td>🟢 Mastering</td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>Docker & CI/CD</td>
+    <td>🔵 Exploring</td>
+  </tr>
+</table>
 
 ---
 
