@@ -10,7 +10,11 @@
   </a>
 </p>
 
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
 ## 🚀 **About Me**
 
@@ -26,7 +30,11 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 - 💬 Ask me about **web development, best practices, or career advice**
 - ⚡ Fun fact: **I can debug code in my dreams!**
 
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
 ## 📊 **GitHub Analytics & Contributions**
 
@@ -46,172 +54,116 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </div>
 
-<!-- ### 📅 Contribution Activity
+<br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zayennn&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph"/>
-</div> -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
----
+## 💻 **Tech Stack & Skills**
 
-## 🛠 Tech Stack & Skills
-
+### 🎨 **Frontend Development**
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🎯 Click to expand/collapse frontend skills</b></summary>
 <br>
 
-<table width="100%">
-  <tr>
-    <th align="left">Technology</th>
-    <th align="left">Proficiency</th>
-    <th align="left">Experience</th>
-  </tr>
-  <tr>
-    <td>HTML5</td>
-    <td>Advanced</td>
-    <td>3+ years</td>
-  </tr>
-  <tr>
-    <td>CSS3</td>
-    <td>Advanced</td>
-    <td>3+ years</td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>Advanced</td>
-    <td>3+ years</td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td>Intermediate</td>
-    <td>2+ years</td>
-  </tr>
-  <tr>
-    <td>Tailwind CSS</td>
-    <td>Intermediate</td>
-    <td>2+ years</td>
-  </tr>
-  <tr>
-    <td>Vite</td>
-    <td>Intermediate</td>
-    <td>1+ years</td>
-  </tr>
-</table>
+<div align="center">
+  
+| Technology | Proficiency | Experience | Icons |
+|------------|-------------|------------|-------|
+| **HTML5** | Advanced | 3+ years | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
+| **CSS3** | Advanced | 3+ years | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **JavaScript** | Advanced | 3+ years | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| **React** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
+| **Tailwind CSS** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
+| **Vite** | Intermediate | 1+ years | <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> |
+| **Bootstrap** | Advanced | 3+ years | <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
+
+</div>
 </details>
 
+### ⚙️ **Backend Development**
 <details>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>🎯 Click to expand/collapse backend skills</b></summary>
 <br>
 
-<table width="100%">
-  <tr>
-    <th align="left">Technology</th>
-    <th align="left">Proficiency</th>
-    <th align="left">Experience</th>
-  </tr>
-  <tr>
-    <td>PHP</td>
-    <td>Advanced</td>
-    <td>3+ years</td>
-  </tr>
-  <tr>
-    <td>Laravel</td>
-    <td>Intermediate</td>
-    <td>2+ years</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Intermediate</td>
-    <td>2+ years</td>
-  </tr>
-  <tr>
-    <td>Flask</td>
-    <td>Intermediate</td>
-    <td>1+ years</td>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td>Beginner</td>
-    <td>1 year</td>
-  </tr>
-  <tr>
-    <td>TypeScript</td>
-    <td>Intermediate</td>
-    <td>1+ years</td>
-  </tr>
-</table>
+<div align="center">
+  
+| Technology | Proficiency | Experience | Icons |
+|------------|-------------|------------|-------|
+| **PHP** | Advanced | 3+ years | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |
+| **Laravel** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> |
+| **Python** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+| **Flask** | Intermediate | 1+ years | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> |
+| **Node.js** | Beginner | 1 year | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> |
+| **TypeScript** | Intermediate | 1+ years | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> |
+
+</div>
 </details>
 
+### 🗄️ **Databases & Tools**
 <details>
-<summary><b>🗄️ Databases & Tools</b></summary>
+<summary><b>🎯 Click to expand/collapse databases & tools</b></summary>
 <br>
 
-<table width="100%">
-  <tr>
-    <th align="left">Technology</th>
-    <th align="left">Proficiency</th>
-    <th align="left">Experience</th>
-  </tr>
-  <tr>
-    <td>MySQL</td>
-    <td>Advanced</td>
-    <td>3+ years</td>
-  </tr>
-  <tr>
-    <td>PostgreSQL</td>
-    <td>Intermediate</td>
-    <td>2+ years</td>
-  </tr>
-  <tr>
-    <td>Git & GitHub</td>
-    <td>Advanced</td>
-    <td>3+ years</td>
-  </tr>
-  <!-- <tr>
-    <td>Docker</td>
-    <td>Beginner</td>
-    <td>6 months</td>
-  </tr> -->
-  <tr>
-    <td>VS Code</td>
-    <td>Advanced</td>
-    <td>3+ years</td>
-  </tr>
-</table>
+<div align="center">
+  
+| Technology | Proficiency | Experience | Icons |
+|------------|-------------|------------|-------|
+| **MySQL** | Advanced | 3+ years | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| **PostgreSQL** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **Git & GitHub** | Advanced | 3+ years | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| **VS Code** | Advanced | 3+ years | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
+| **Figma** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> |
+| **Postman** | Intermediate | 2+ years | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
+
+</div>
 </details>
 
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
-## 🎯 **Current Focus**
+## 🚧 **Current Focus & Learning**
 
-<table width="100%">
-  <tr>
-    <th align="left">Area</th>
-    <th align="left">Technology</th>
-    <th align="left">Status</th>
-  </tr>
-  <tr>
-    <td>Frontend</td>
-    <td>React Advanced Patterns</td>
-    <td>🟡 Learning</td>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>Python Microservices</td>
-    <td>🟡 Learning</td>
-  </tr>
-  <tr>
-    <td>Database</td>
-    <td>PostgreSQL Optimization</td>
-    <td>🟢 Mastering</td>
-  </tr>
-  <!-- <tr>
-    <td>DevOps</td>
-    <td>Docker & CI/CD</td>
-    <td>🔵 Exploring</td>
-  </tr> -->
-</table>
+<div align="center">
 
----
+| Area | Technology | Status | Progress |
+|------|------------|--------|----------|
+| **Frontend** | React Advanced Patterns | 🟡 **Learning** | ![React Progress](https://img.shields.io/badge/Progress-75%25-blue) |
+| **Backend** | Python Microservices | 🟡 **Learning** | ![Python Progress](https://img.shields.io/badge/Progress-60%25-green) |
+| **Database** | PostgreSQL Optimization | 🟢 **Mastering** | ![DB Progress](https://img.shields.io/badge/Progress-85%25-orange) |
+| **Tools** | Docker Basics | 🔵 **Exploring** | ![Docker Progress](https://img.shields.io/badge/Progress-40%25-lightgrey) |
+
+</div>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
+
+## 📂 **Project Highlights**
+
+<div align="center">
+  
+### 🔥 **Featured Repositories**
+  
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **[Project One](https://github.com/zayennn/project-one)** | E-commerce platform with Laravel & React | ![Laravel](https://img.shields.io/badge/Laravel-red) ![React](https://img.shields.io/badge/React-blue) ![MySQL](https://img.shields.io/badge/MySQL-orange) | ⭐ |
+| **[Project Two](https://github.com/zayennn/project-two)** | Task management app with Python Flask | ![Python](https://img.shields.io/badge/Python-yellow) ![Flask](https://img.shields.io/badge/Flask-black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) | ⭐ |
+| **[Project Three](https://github.com/zayennn/project-three)** | Portfolio website with modern design | ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) | ⭐ |
+
+</div>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
 ## 📈 **Coding Activity**
 
@@ -220,46 +172,57 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation showing GitHub contributions"/>
 </div>
 
-<!-- WakaTime Stats (Optional - jika kamu punya WakaTime API) -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zayennn&theme=radical&layout=compact" alt="WakaTime Stats"/>
-</div> -->
-
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
 ## 🌐 **Connect With Me**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elang-atha-zahran-100459220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:athazahranel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   <a href="https://cosmic-portfolio-iota.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4" alt="Portfolio"/>
   </a>
   <a href="https://www.instagram.com/zaayeenn_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/zayennn" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </div>
 
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
 <div align="center">
-  <h3>⚡ GitHub Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayennn&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  
+## ⚡ **GitHub Streak & Stats**
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayennn&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   
   <br/><br/>
   
-  <img height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Thank You GIF"/>
+  ### 🎉 **Thanks for Visiting!**
   
-  <h3>Thanks for visiting! ❤️</h3>
+  <img height="120" src="https://media.giphy.com/media/26tknCqiJrBQG6DrC/giphy.gif" alt="Thank You GIF"/>
   
-  <img src="https://komarev.com/ghpvc/?username=zayennn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <h3>⭐ Star my repositories if you find them interesting! ⭐</h3>
   
-  <p>⭐ Feel free to star any repositories you find interesting!</p>
+  <img src="https://komarev.com/ghpvc/?username=zayennn&label=👁️%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
+  
+  <p>Made with ❤️ and ☕</p>
+  
 </div>
