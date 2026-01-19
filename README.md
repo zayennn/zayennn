@@ -19,7 +19,7 @@
 ## 🚀 **About Me**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Developer GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300" align="right" alt="Developer GIF"/>
 </div>
 
 I'm a passionate Fullstack Web Developer specializing in building scalable, responsive, and user-friendly web applications. With expertise in both frontend and backend technologies, I create complete digital solutions from concept to deployment. I believe in writing clean, maintainable code and creating exceptional user experiences.
@@ -218,7 +218,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   
   ### 🎉 **Thanks for Visiting!**
   
-  <img height="120" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Thank You GIF"/>
+  <img height="120" src="https://i.imgflip.com/65efzo.gif" alt="Thank You GIF"/>
   
   <h3>⭐ Star my repositories if you find them interesting! ⭐</h3>
   
