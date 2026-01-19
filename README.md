@@ -53,14 +53,17 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ---
 
-## 🛠 **Tech Stack & Skills**
+## 🛠 Tech Stack & Skills
 
-<h3 align="center">🎨 Frontend Development</h3>
-<table align="center" width="100%">
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+<table width="100%">
   <tr>
-    <th>Technology</th>
-    <th>Proficiency</th>
-    <th>Experience</th>
+    <th align="left">Technology</th>
+    <th align="left">Proficiency</th>
+    <th align="left">Experience</th>
   </tr>
   <tr>
     <td>HTML5</td>
@@ -93,15 +96,17 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
     <td>1+ years</td>
   </tr>
 </table>
+</details>
 
-<br/>
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
 
-<h3 align="center">⚙️ Backend Development</h3>
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <th>Technology</th>
-    <th>Proficiency</th>
-    <th>Experience</th>
+    <th align="left">Technology</th>
+    <th align="left">Proficiency</th>
+    <th align="left">Experience</th>
   </tr>
   <tr>
     <td>PHP</td>
@@ -134,15 +139,17 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
     <td>1+ years</td>
   </tr>
 </table>
+</details>
 
-<br/>
+<details>
+<summary><b>🗄️ Databases & Tools</b></summary>
+<br>
 
-<h3 align="center">🗄️ Databases & Tools</h3>
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <th>Technology</th>
-    <th>Proficiency</th>
-    <th>Experience</th>
+    <th align="left">Technology</th>
+    <th align="left">Proficiency</th>
+    <th align="left">Experience</th>
   </tr>
   <tr>
     <td>MySQL</td>
@@ -164,7 +171,13 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
     <td>Beginner</td>
     <td>6 months</td>
   </tr>
+  <tr>
+    <td>VS Code</td>
+    <td>Advanced</td>
+    <td>3+ years</td>
+  </tr>
 </table>
+</details>
 
 ---
 
@@ -211,11 +224,13 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ## 🎯 **Current Focus**
 
-<table align="center" width="100%">
+## 🎯 Current Focus
+
+<table width="100%">
   <tr>
-    <th>Area</th>
-    <th>Technology</th>
-    <th>Status</th>
+    <th align="left">Area</th>
+    <th align="left">Technology</th>
+    <th align="left">Status</th>
   </tr>
   <tr>
     <td>Frontend</td>
