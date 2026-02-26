@@ -174,7 +174,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zayennn&theme=radical&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zayenn&theme=radical&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 <br>
