@@ -173,6 +173,10 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation showing GitHub contributions"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zayennn&theme=radical&layout=compact" alt="WakaTime Stats"/>
+</div>
+
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
