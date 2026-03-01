@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47and826h3relm2a23ojr8cfjbv67r8xu4mg5z52r1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Coding Animation"/>
 </div>
 
-<h1 align="center">✨ Welcome to My GitHub Universe! ✨</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Welcome to My GitHub Universe! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
