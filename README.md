@@ -52,7 +52,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### 🎯 3D Contribution Graph
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> GitHub Trophies
@@ -257,10 +257,10 @@ PowerShell       0 secs                ░░░░░░░░░░░░░�
   <img src="https://komarev.com/ghpvc/?username=zayennn&label=👁️%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
   
   <p>Made with ❤️ and ☕</p>
-
-  <div align="center" width="100">
-     <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
-     alt="footer" />
-   </div>
   
+</div>
+
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
 </div>
