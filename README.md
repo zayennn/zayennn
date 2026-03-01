@@ -218,7 +218,7 @@ CSS                      14 mins             ░░░░░░░░░░░�
 
 <div align="center">
   
-### 🎉 **Thanks for Visiting!**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Party%20Popper.webp" alt="Party Popper" width="25" height="25" /> **Thanks for Visiting!**
   
 <img height="120" src="https://i.imgflip.com/65efzo.gif" alt="Thank You GIF"/>
   
