@@ -225,9 +225,8 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
   <!-- WakaTime Stats -->
   ### 📊 **WakaTime Coding Activity**
-  <a href="https://wakatime.com/@Zayenn">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zayennn&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
-  </a>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   
   <br/><br/>
   
