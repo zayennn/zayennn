@@ -79,7 +79,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 <br>
 
-## 🚧 **Current Focus & Learning**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> **Current Focus & Learning**
 
 <div align="center">
 
