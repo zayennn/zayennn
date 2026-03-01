@@ -203,6 +203,11 @@ CSS                      14 mins             ░░░░░░░░░░░�
 
 ⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.25% as on ⏰ 1-Mar-2026
 
+<p align="center">
+  <img src="https://wakatime.com/share/@Zayenn/b46d8f0e-30b9-4ee0-a993-81a57047e6d1.svg" width="400"/>
+  <img src="https://wakatime.com/share/@Zayenn/e6ebde09-3352-4eee-a7e4-7d187d20288f.svg" width="400"/>
+</p>
+
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
