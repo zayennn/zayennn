@@ -201,7 +201,7 @@ CSS                      14 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** Loading...
+⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.25% as on ⏰ 1-Mar-2026
 
 <br>
 <div align="center">
