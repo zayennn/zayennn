@@ -90,7 +90,7 @@ CSS                      14 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** Loading...
+⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.24% as on ⏰ 1-Mar-2026
 
 ### 🎯 3D Contribution Graph
 <div align="center">
