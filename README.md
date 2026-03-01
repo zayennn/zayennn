@@ -42,8 +42,8 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
 <div align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zayennn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zayennn&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zayennn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zayennn&layout=compact&langs_count=8&theme=radical&&hide_border=true"/>
 </div>
 
 ### 🎯 3D Contribution Graph
