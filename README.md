@@ -106,7 +106,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zayennn&rank=SSS,SS,S,AAA,AA,A&theme=tokyonight&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-bg=true&no-frame=true" />
 </p>
 
 ### 🌐 **Connect With Me**
