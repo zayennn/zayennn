@@ -90,8 +90,7 @@ CSS                      14 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:year_progress-->
-<!--END_SECTION:year_progress-->
+⏳ **Year Progress:** Loading...
 
 ### 🎯 3D Contribution Graph
 <div align="center">
