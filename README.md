@@ -42,7 +42,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Tech Stack & Skills**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> **Tech Stack & Skills**
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> **Frontend Development**
 <div align="left">
