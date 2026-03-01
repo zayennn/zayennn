@@ -1,20 +1,38 @@
-name: Waka Readme
+name: WakaTime Stats
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 0 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 10
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          SHOW_TIME: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_UPDATED_DATE: "False"
+
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PERCENTAGE: "True"
+          SHOW_LANGUAGE_PROGRESS: "True"
+          SHOW_TOP_LANGUAGES: "True"
+
+          LANG_COUNT: 5
