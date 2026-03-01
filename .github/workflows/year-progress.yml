@@ -1,0 +1,25 @@
+name: Year Progress
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "59 23 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Year Progress
+        run: |
+          PERCENT=$(node -e "const now=new Date();const start=new Date(now.getFullYear(),0,1);const end=new Date(now.getFullYear(),11,31);console.log(((now-start)/(end-start)*100).toFixed(2))")
+          echo "⏳ **Year Progress** { ███████████████████████████▁▁▁ } $PERCENT % as on ⏰ $(date +'%d-%m-%Y')." >> README.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update year progress"
+          git push
