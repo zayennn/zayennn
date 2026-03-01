@@ -52,7 +52,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### 🎯 3D Contribution Graph
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> GitHub Trophies
@@ -153,26 +153,6 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 <br>
 
-<!-- ## 📂 **Project Highlights**
-
-<div align="center">
-  
-### 🔥 **Featured Repositories**
-  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Project One](https://github.com/zayennn/project-one)** | E-commerce platform with Laravel & React | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
-| **[Project Two](https://github.com/zayennn/project-two)** | Task management app with Python Flask | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **[Project Three](https://github.com/zayennn/project-three)** | Portfolio website with modern design | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
-
-</div>
-
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<br> -->
-
 ## 📈 **Coding Activity**
 
 <!-- Snake Animation -->
@@ -262,6 +242,9 @@ CSS                      14 mins             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:year_progress-->
+<!--END_SECTION:year_progress-->
   
   <br/><br/>
   
