@@ -8,18 +8,42 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
 
-      - name: Generate Year Progress
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Year Progress
         run: |
-          PERCENT=$(node -e "const now=new Date();const start=new Date(now.getFullYear(),0,1);const end=new Date(now.getFullYear(),11,31);console.log(((now-start)/(end-start)*100).toFixed(2))")
-          echo "⏳ **Year Progress** { ███████████████████████████▁▁▁ } $PERCENT % as on ⏰ $(date +'%d-%m-%Y')." >> README.md
+          node <<EOF
+          const fs = require("fs");
+
+          const now = new Date();
+          const start = new Date(now.getFullYear(), 0, 1);
+          const end = new Date(now.getFullYear(), 11, 31);
+
+          const percent = ((now - start) / (end - start)) * 100;
+          const percentage = percent.toFixed(2);
+
+          const totalBars = 30;
+          const filledBars = Math.round((percent / 100) * totalBars);
+          const bar = "█".repeat(filledBars) + "▁".repeat(totalBars - filledBars);
+
+          const content = fs.readFileSync("README.md", "utf8");
+
+          const newSection = `⏳ Year Progress: { ${bar} } ${percentage}% as on ⏰ ${now.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" })}`;
+
+          const updated = content.replace(
+            /<!--START_SECTION:year_progress-->[\s\S]*?<!--END_SECTION:year_progress-->/,
+            `<!--START_SECTION:year_progress-->\n${newSection}\n<!--END_SECTION:year_progress-->`
+          );
+
+          fs.writeFileSync("README.md", updated);
+          EOF
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update year progress"
+          git commit -m "Update year progress" || echo "No changes"
           git push
