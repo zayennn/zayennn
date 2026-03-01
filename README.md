@@ -226,7 +226,7 @@ CSS                      14 mins             ░░░░░░░░░░░�
   
 <img src="https://komarev.com/ghpvc/?username=zayennn&label=👁️%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
   
-<p>Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp" alt="Red Heart" width="25" height="25" /> and ☕</p>
+<p>Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp" alt="Red Heart" width="25" height="25" /> and <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Hot%20Beverage.webp" alt="Hot Beverage" width="25" height="25" /></p>
   
 </div>
 
