@@ -99,7 +99,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> | Intermediate | 1+ years |
 | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | Beginner | 1 year |
 | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | Intermediate | 1+ years |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Intermediate | 2+ years |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Intermediate | <1 years |
 
 </div>
 </details>
@@ -221,7 +221,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
   <!-- WakaTime Stats -->
   ### 📊 **WakaTime Coding Activity**
-  <a href="https://wakatime.com/@zayennn">
+  <a href="https://wakatime.com/@Zayenn">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zayennn&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
   </a>
   
