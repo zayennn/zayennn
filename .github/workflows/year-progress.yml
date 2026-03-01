@@ -5,39 +5,56 @@ on:
   schedule:
     - cron: "59 23 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Update Year Progress
         run: |
-          node <<EOF
+          node <<'EOF'
           const fs = require("fs");
 
           const now = new Date();
-          const start = new Date(now.getFullYear(), 0, 1);
-          const end = new Date(now.getFullYear(), 11, 31);
+          const year = now.getFullYear();
+
+          const start = new Date(year, 0, 1);
+          const end = new Date(year, 11, 31, 23, 59, 59);
 
           const percent = ((now - start) / (end - start)) * 100;
           const percentage = percent.toFixed(2);
 
           const totalBars = 30;
           const filledBars = Math.round((percent / 100) * totalBars);
-          const bar = "█".repeat(filledBars) + "▁".repeat(totalBars - filledBars);
+          const bar =
+            "█".repeat(filledBars) +
+            "▁".repeat(totalBars - filledBars);
 
-          const content = fs.readFileSync("README.md", "utf8");
+          const readmePath = "README.md";
+          const content = fs.readFileSync(readmePath, "utf8");
 
-          const newSection = `⏳ Year Progress: { ${bar} } ${percentage}% as on ⏰ ${now.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" })}`;
+          const newSection =
+            `⏳ Year Progress: { ${bar} } ${percentage}% as on ⏰ ${now.toLocaleDateString("en-GB", {
+              day: "2-digit",
+              month: "short",
+              year: "numeric",
+            })}`;
+
+          const regex =
+            /<!--START_SECTION:year_progress-->[\s\S]*?<!--END_SECTION:year_progress-->/;
 
           const updated = content.replace(
-            /<!--START_SECTION:year_progress-->[\s\S]*?<!--END_SECTION:year_progress-->/,
+            regex,
             `<!--START_SECTION:year_progress-->\n${newSection}\n<!--END_SECTION:year_progress-->`
           );
 
-          fs.writeFileSync("README.md", updated);
+          fs.writeFileSync(readmePath, updated);
           EOF
 
       - name: Commit & Push
@@ -45,5 +62,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update year progress" || echo "No changes"
+          git diff --quiet && echo "No changes" && exit 0
+          git commit -m "chore: update year progress"
           git push
