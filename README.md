@@ -99,6 +99,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> | Intermediate | 1+ years |
 | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | Beginner | 1 year |
 | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | Intermediate | 1+ years |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Intermediate | 2+ years |
 
 </div>
 </details>
@@ -138,7 +139,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 | **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | 🟡 **Learning** | ![React Progress](https://img.shields.io/badge/75%25-61DAFB?style=flat-square&logo=react&logoColor=white) |
 | **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | 🟡 **Learning** | ![Python Progress](https://img.shields.io/badge/60%25-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> | 🟢 **Mastering** | ![DB Progress](https://img.shields.io/badge/85%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> | 🔵 **Exploring** | ![Docker Progress](https://img.shields.io/badge/40%25-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Language** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> | 🟡 **Learning** | ![Java Progress](https://img.shields.io/badge/70%25-ED8B00?style=flat-square&logo=java&logoColor=white) |
 
 </div>
 
@@ -173,10 +174,6 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation showing GitHub contributions"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zayenn&theme=radical&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 <br>
@@ -219,6 +216,14 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 ## ⚡ **GitHub Streak & Stats**
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayennn&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  
+  <br/><br/>
+
+  <!-- WakaTime Stats -->
+  ### 📊 **WakaTime Coding Activity**
+  <a href="https://wakatime.com/@zayennn">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zayennn&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  </a>
   
   <br/><br/>
   
