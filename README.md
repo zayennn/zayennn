@@ -1,4 +1,8 @@
 <div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47and826h3relm2a23ojr8cfjbv67r8xu4mg5z52r1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Coding Animation"/>
 </div>
 
