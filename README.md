@@ -257,5 +257,10 @@ PowerShell       0 secs                ░░░░░░░░░░░░░�
   <img src="https://komarev.com/ghpvc/?username=zayennn&label=👁️%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
   
   <p>Made with ❤️ and ☕</p>
+
+  <div align="center" width="100">
+     <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+     alt="footer" />
+   </div>
   
 </div>
