@@ -164,7 +164,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 
-### 📊 **WakaTime Coding Activity**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> **WakaTime Coding Activity**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2031%20mins-blue?style=flat)
 
