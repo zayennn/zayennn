@@ -53,7 +53,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <!-- WakaTime Stats -->
   ### 📊 **WakaTime Coding Activity**
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2047%20mins-blue?style=flat)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2047%20mins-blue?style=flat) -->
 
 **I'm a Night 🦉** 
 
