@@ -243,8 +243,6 @@ CSS                      14 mins             ░░░░░░░░░░░�
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayennn&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   
-  <br/><br/>
-  
   ### 🎉 **Thanks for Visiting!**
   
   <img height="120" src="https://i.imgflip.com/65efzo.gif" alt="Thank You GIF"/>
