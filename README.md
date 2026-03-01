@@ -52,7 +52,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### 🎯 3D Contribution Graph
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> GitHub Trophies
