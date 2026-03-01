@@ -54,6 +54,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  [![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zayennn&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
 </div>
 
 <br>
