@@ -1,85 +1,28 @@
-name: Year Progress
+name: Year Progress Bar
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "59 23 * * *"
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - name: Update Year Progress
-        run: |
-          node <<'EOF'
-          const fs = require("fs");
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
 
-          const readmePath = "README.md";
-          let content = fs.readFileSync(readmePath, "utf8");
-
-          const now = new Date();
-          const year = now.getFullYear();
-
-          const start = new Date(year, 0, 1);
-          const end = new Date(year, 11, 31, 23, 59, 59);
-
-          const percent = ((now - start) / (end - start)) * 100;
-          const percentage = percent.toFixed(2);
-
-          const totalBars = 30;
-          const filledBars = Math.round((percent / 100) * totalBars);
-          const bar =
-            "█".repeat(filledBars) +
-            "▁".repeat(totalBars - filledBars);
-
-          const newSection =
-            `⏳ Year Progress: { ${bar} } ${percentage}% as on ⏰ ${now.toLocaleDateString("en-GB", {
-              day: "2-digit",
-              month: "short",
-              year: "numeric",
-            })}`;
-
-          const startTag = "<!--START_SECTION:year_progress-->";
-          const endTag = "<!--END_SECTION:year_progress-->";
-
-          if (content.includes(startTag) && content.includes(endTag)) {
-            const before = content.split(startTag)[0];
-            const after = content.split(endTag)[1];
-
-            content =
-              before +
-              startTag +
-              "\n" +
-              newSection +
-              "\n" +
-              endTag +
-              after;
-          } else {
-            content +=
-              "\n\n" +
-              startTag +
-              "\n" +
-              newSection +
-              "\n" +
-              endTag +
-              "\n";
-          }
-
-          fs.writeFileSync(readmePath, content);
-          EOF
+      - name: Run Script
+        run: node index.js
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && echo "No changes" && exit 0
-          git commit -m "chore: update year progress"
+          git commit -m "Update year progress"
           git push
