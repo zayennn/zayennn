@@ -96,7 +96,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <td valign="top" width="40%">
 <p align="right">
 
-### 🎯 **GitHub Analytics**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> **GitHub Analytics**
   
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zayennn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
