@@ -42,8 +42,8 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zayennn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zayennn&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" &no-bg=true&no-frame=true&langs_count=10"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zayennn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zayennn&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ### 🎯 3D Contribution Graph
@@ -52,7 +52,9 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> GitHub Trophies
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zayennn&theme=github	)](https://github.com/zayennn/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+</div>
 
 <br>
 <div align="center">
