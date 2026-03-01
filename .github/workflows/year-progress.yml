@@ -14,12 +14,15 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Update Year Progress
         run: |
           node <<'EOF'
           const fs = require("fs");
+
+          const readmePath = "README.md";
+          let content = fs.readFileSync(readmePath, "utf8");
 
           const now = new Date();
           const year = now.getFullYear();
@@ -36,9 +39,6 @@ jobs:
             "█".repeat(filledBars) +
             "▁".repeat(totalBars - filledBars);
 
-          const readmePath = "README.md";
-          const content = fs.readFileSync(readmePath, "utf8");
-
           const newSection =
             `⏳ Year Progress: { ${bar} } ${percentage}% as on ⏰ ${now.toLocaleDateString("en-GB", {
               day: "2-digit",
@@ -46,15 +46,33 @@ jobs:
               year: "numeric",
             })}`;
 
-          const regex =
-            /<!--START_SECTION:year_progress-->[\s\S]*?<!--END_SECTION:year_progress-->/;
+          const startTag = "<!--START_SECTION:year_progress-->";
+          const endTag = "<!--END_SECTION:year_progress-->";
 
-          const updated = content.replace(
-            regex,
-            `<!--START_SECTION:year_progress-->\n${newSection}\n<!--END_SECTION:year_progress-->`
-          );
+          if (content.includes(startTag) && content.includes(endTag)) {
+            const before = content.split(startTag)[0];
+            const after = content.split(endTag)[1];
 
-          fs.writeFileSync(readmePath, updated);
+            content =
+              before +
+              startTag +
+              "\n" +
+              newSection +
+              "\n" +
+              endTag +
+              after;
+          } else {
+            content +=
+              "\n\n" +
+              startTag +
+              "\n" +
+              newSection +
+              "\n" +
+              endTag +
+              "\n";
+          }
+
+          fs.writeFileSync(readmePath, content);
           EOF
 
       - name: Commit & Push
