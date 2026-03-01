@@ -222,7 +222,7 @@ CSS                      14 mins             ░░░░░░░░░░░�
   
 <img height="120" src="https://i.imgflip.com/65efzo.gif" alt="Thank You GIF"/>
   
-<h3>⭐ Star my repositories if you find them interesting! ⭐</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Star my repositories if you find them interesting! </h3>
   
 <img src="https://komarev.com/ghpvc/?username=zayennn&label=👁️%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
   
