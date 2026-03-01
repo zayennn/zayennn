@@ -147,7 +147,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <td valign="top" width="40%">
 <p align="right">
 
-### 📈 **Coding Activity**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> **Coding Activity**
 
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation showing GitHub contributions"/>
