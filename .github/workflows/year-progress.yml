@@ -3,7 +3,7 @@ name: Year Progress Bar
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 0 * * *" # jalan tiap hari jam 00:30 UTC (beda sama waka biar ga tabrakan)
+    - cron: "30 0 * * *"
 
 jobs:
   build:
@@ -20,22 +20,20 @@ jobs:
         with:
           node-version: "18"
 
-      - name: Run Year Progress Script
-        run: node index.js
-
-      - name: Commit & Push changes
+      - name: Prepare Git
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-
           git pull origin main --rebase
 
+      - name: Run Year Progress Script
+        run: node index.js
+
+      - name: Commit & Push
+        run: |
           git add README.md
-
           git commit -m "chore: update year progress" || echo "No changes to commit"
-
           git push origin main
