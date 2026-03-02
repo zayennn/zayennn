@@ -106,7 +106,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> **GitHub Trophies**
 <p align="center">
-  
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-bg=true&no-frame=true" /> -->
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
 </p>
 
