@@ -106,8 +106,8 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-bg=true&no-frame=true" />
-   [![trophy](https://github-profile-trophy.vercel.app/?username=zayennn&theme=onedark)](https://github.com/krishyadav90/github-profile-trophy)
+  
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> **Connect With Me**
