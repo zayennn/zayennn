@@ -167,44 +167,9 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> **WakaTime Coding Activity**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2053%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                806 commits         ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌆 Daytime                630 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-🌃 Evening                793 commits         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-🌙 Night                  1021 commits        ████████░░░░░░░░░░░░░░░░░   31.42 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   559 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Tuesday                  1001 commits        ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Wednesday                272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Thursday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Friday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Saturday                 367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     18 hrs 1 min        ████████████████░░░░░░░░░   64.60 % 
-Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-C                        2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Blade Template           39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-```
-
-
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.25% as on ⏰ 1-Mar-2026
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> **Year Progress:** Loading...
 
 <p align="center">
   <img src="https://wakatime.com/share/@Zayenn/edb51639-b1c0-49fb-8c1e-62b64e491a55.svg" width="400"/>
