@@ -167,24 +167,6 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> **WakaTime Coding Activity**
 <!--START_SECTION:waka-->
-
-```txt
-From: 23 February 2026 - To: 02 March 2026
-
-Total Time: 27 hrs 54 mins
-
-Java             18 hrs 1 min          ████████████████░░░░░░░░░   64.60 %
-Markdown         2 hrs 58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-C                2 hrs 19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-JSON             1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Blade Template   39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-CSS              38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-HTML             36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-YAML             33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JavaScript       27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-PHP              17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-```
-
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.92% as on ⏰ 3-Mar-2026
