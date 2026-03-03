@@ -187,7 +187,7 @@ PHP              17 mins               ▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> ⏳ **Year Progress:** Loading...
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> ⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.92% as on ⏰ 3-Mar-2026
 
 <p align="center">
   <img src="https://wakatime.com/share/@Zayenn/edb51639-b1c0-49fb-8c1e-62b64e491a55.svg" width="400"/>
