@@ -166,6 +166,9 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> **WakaTime Coding Activity**
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics">
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
