@@ -169,8 +169,8 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <p align="center">
   <img src="./metrics.svg" alt="Metrics">
 </p>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:metrics-->
+<!--END_SECTION:metrics-->
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.92% as on ⏰ 3-Mar-2026
 
