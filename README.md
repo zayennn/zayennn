@@ -166,9 +166,6 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> **WakaTime Coding Activity**
-<p align="center">
-  <img src="./metrics.svg" alt="Metrics">
-</p>
 <!--START_SECTION:metrics-->
 <!--END_SECTION:metrics-->
 
@@ -177,6 +174,12 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <p align="center">
   <img src="https://wakatime.com/share/@Zayenn/edb51639-b1c0-49fb-8c1e-62b64e491a55.svg" width="400"/>
   <img src="https://wakatime.com/share/@Zayenn/cca31b97-fb56-4568-aaf9-357f7b5ee0ac.svg" width="400"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics">
 </p>
 
 <br>
