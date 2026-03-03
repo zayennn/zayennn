@@ -14,21 +14,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: zayennn
-          template: classic
-          base: header, activity, community, repositories, metadata
+          template: markdown
+          filename: README.md
 
           config_timezone: Asia/Jakarta
 
-          # ====== Commit Time Distribution ======
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          base: ""
 
+          # ===== Commit distribution =====
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
 
-          # ====== WakaTime Stats ======
+          # ===== WakaTime text output =====
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
@@ -37,7 +36,7 @@ jobs:
           plugin_wakatime_display: text
           plugin_wakatime_utc: false
 
-          # ====== Languages per Repo ======
+          # ===== Repo language stats =====
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 5
