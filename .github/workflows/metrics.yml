@@ -1,8 +1,7 @@
-name: GitHub Metrics
+name: Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
 
 jobs:
@@ -12,30 +11,33 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: header, activity, community, repositories
+          user: zayennn
+          template: classic
+          base: header, activity, community, repositories, metadata
 
           config_timezone: Asia/Jakarta
 
+          # ====== Commit Time Distribution ======
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_languages: yes
-          plugin_languages_limit: 5
-          plugin_languages_details: percentage
-
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_trim: yes
 
+          # ====== WakaTime Stats ======
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
           plugin_wakatime_sections: time, languages, editors, os, projects
           plugin_wakatime_limit: 5
+          plugin_wakatime_display: text
+          plugin_wakatime_utc: false
 
-          plugin_stars: yes
-          plugin_activity: yes
+          # ====== Languages per Repo ======
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 5
