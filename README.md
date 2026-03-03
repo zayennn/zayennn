@@ -167,40 +167,23 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> **WakaTime Coding Activity**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2025%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
+```txt
+From: 23 February 2026 - To: 02 March 2026
 
-```text
-🌞 Morning                677 commits         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-🌆 Daytime                630 commits         ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-🌃 Evening                793 commits         ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-🌙 Night                  562 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Total Time: 27 hrs 54 mins
+
+Java             18 hrs 1 min          ████████████████░░░░░░░░░   64.60 %
+Markdown         2 hrs 58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+C                2 hrs 19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+JSON             1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Blade Template   39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+CSS              38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+HTML             36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+YAML             33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JavaScript       27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+PHP              17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   559 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Tuesday                  413 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Wednesday                272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Thursday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Friday                   381 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Sunday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     17 hrs 59 mins      ███████████████████░░░░░░   74.63 % 
-Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-```
-
 
 <!--END_SECTION:waka-->
 
