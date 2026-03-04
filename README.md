@@ -162,6 +162,15 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
+
+```txt
+Java             14 hrs 12 mins        ███████████░░░░░░░░░░░░░░   44.43 %
+C                3 hrs 51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Markdown         3 hrs 37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Blade Template   2 hrs 39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+CSS              2 hrs 37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+```
+
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.21% as on ⏰ 4-Mar-2026
