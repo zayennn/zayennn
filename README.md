@@ -171,7 +171,7 @@ Letakkan kode WakaTime di sini dengan format:
 Ganti USERNAME_WAKATIME_ANDA dengan username WakaTime Anda
 -->
 
-⏳ **Year Progress:** Loading...
+⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.21% as on ⏰ 4-Mar-2026
 
 <p align="center">
   <img src="./metrics.svg">
