@@ -250,10 +250,16 @@ C                        1 repo              ░░░░░░░░░░░�
   <img src="./metrics.svg">
 </p>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="width:100%; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://wakatime.com/share/@Zayenn/2a7d9825-d3c7-44cc-adbf-796f0b995c6e.svg" width="45%">
   <img src="https://wakatime.com/share/@Zayenn/025c8681-b0cd-452a-ab30-819e383955c7.svg" width="45%">
 </div>
+
+
+<div style="width:100%; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://wakatime.com/share/@Zayenn/0fc93c93-3ca4-4e70-9119-0f4d4065341b.svg" width="45%">
+</div>
+
 
 <br>
 <div align="center">
