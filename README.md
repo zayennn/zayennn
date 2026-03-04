@@ -163,7 +163,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 <!--START_SECTION:metrics-->
 <!--END_SECTION:metrics-->
-⏳ **Year Progress:** Loading...
+⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.21% as on ⏰ 4-Mar-2026
 
 <br>
 <div align="center">
