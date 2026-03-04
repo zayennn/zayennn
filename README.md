@@ -161,10 +161,9 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 <br>
 
-<!--
-TEMPAT UNTUK WAKATIME SECTION
--->
-⏳ **Year Progress:
+<!--START_SECTION:metrics-->
+<!--END_SECTION:metrics-->
+⏳ **Year Progress:** Loading...
 
 <br>
 <div align="center">
