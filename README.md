@@ -177,10 +177,10 @@ Ganti USERNAME_WAKATIME_ANDA dengan username WakaTime Anda
   <img src="./metrics.svg">
 </p>
 
-<p align="center">
-  <img src="https://wakatime.com/share/@Zayenn/2a7d9825-d3c7-44cc-adbf-796f0b995c6e.svg">
-  <img src="https://wakatime.com/share/@Zayenn/025c8681-b0cd-452a-ab30-819e383955c7.svg">
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://wakatime.com/share/@Zayenn/2a7d9825-d3c7-44cc-adbf-796f0b995c6e.svg" width="45%">
+  <img src="https://wakatime.com/share/@Zayenn/025c8681-b0cd-452a-ab30-819e383955c7.svg" width="45%">
+</div>
 
 <br>
 <div align="center">
