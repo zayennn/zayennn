@@ -144,7 +144,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 <div style="width:100%; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://wakatime.com/share/@Zayenn/2a7d9825-d3c7-44cc-adbf-796f0b995c6e.svg" width="45%">
+  <img src="https://wakatime.com/share/@Zayenn/2a7d9825-d3c7-44cc-adbf-796f0b995c6e.svg" width="50%">
   <img src="https://wakatime.com/share/@Zayenn/025c8681-b0cd-452a-ab30-819e383955c7.svg" width="45%">
 </div>
 
