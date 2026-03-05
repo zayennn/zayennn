@@ -22,7 +22,6 @@
 </div>
 <br>
 
-<!-- MAIN TABLE - ABOUT ME & TECH STACK (LEFT) + GITHUB STATS (RIGHT) -->
 <table style="border-color: transparent;" cellspacing=0 >
   <tr>
     <td valign="top" width="60%">
@@ -95,6 +94,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 </td>
 <td valign="top" width="40%">
+<p align="right">
 
 ### 🎯 **GitHub Analytics**
   
@@ -115,7 +115,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <a href="mailto:athazahranel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  <a href="https://eaz-portfolio.vercel.app" target="_blank">
+  <a href="https://cosmic-portfolio-iota.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4" alt="Portfolio"/>
   </a>
   <a href="https://www.instagram.com/zaayeenn_/" target="_blank">
@@ -123,6 +123,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   </a>
 </div>
 
+</p>
 </td>
 </tr>
 </table>
@@ -133,7 +134,6 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 <br>
 
-<!-- SECOND TABLE - 3D GRAPH & SNAKE ANIMATION -->
 <table style="border-color: transparent;" cellspacing=0 >
   <tr>
     <td valign="top" width="60%">
@@ -141,14 +141,105 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 ### 🎯 **3D Contribution Graph**
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
+<!--START_SECTION:waka-->
+
+**🐱 My GitHub Data** 
+
+> 📦 270.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,064 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 127 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                811 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌆 Daytime                681 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+🌃 Evening                877 commits         ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌙 Night                  1095 commits        ████████░░░░░░░░░░░░░░░░░   31.61 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   568 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Tuesday                  1031 commits        ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Wednesday                298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Thursday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Friday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Saturday                 412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   544 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Java                     14 hrs 12 mins      ███████████░░░░░░░░░░░░░░   44.43 % 
+C                        3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Markdown                 3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Blade Template           2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+CSS                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 39 mins      ██████████████░░░░░░░░░░░   55.20 % 
+IntelliJ IDEA            14 hrs 20 mins      ███████████░░░░░░░░░░░░░░   44.80 % 
+
+🐱‍💻 Projects: 
+Belajar Java - GPT       14 hrs 20 mins      ███████████░░░░░░░░░░░░░░   44.80 % 
+belajar-coding           6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Belajar C - GPT          4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+zayennn                  2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+StreamingAnime           1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+
+💻 Operating System: 
+Windows                  31 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     39 repos            ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+JavaScript               33 repos            ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+CSS                      28 repos            █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
+
+
+
+
+ Last Updated on 05/03/2026 02:24:39 UTC
+<!--END_SECTION:waka-->
+
+⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.30% as on ⏰ 5-Mar-2026
+
+<div style="width:100%; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://wakatime.com/share/@Zayenn/2a7d9825-d3c7-44cc-adbf-796f0b995c6e.svg" width="45%">
+  <img src="https://wakatime.com/share/@Zayenn/025c8681-b0cd-452a-ab30-819e383955c7.svg" width="45%">
+</div>
+
 </td>
 <td valign="top" width="40%">
+<p align="right">
 
 ### 📈 **Coding Activity**
+
+<p align="center">
+  <img src="./metrics.svg">
+</p>
 
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation showing GitHub contributions"/>
 
+</p>
 </td>
 </tr>
 </table>
@@ -159,21 +250,12 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 <br>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<br>
-
-<!-- THANKS SECTION -->
 <div align="center">
   
 ### 🎉 **Thanks for Visiting!**
   
 <img height="120" src="https://i.imgflip.com/65efzo.gif" alt="Thank You GIF"/>
+  
 <h3>⭐ Star my repositories if you find them interesting! ⭐</h3>
   
 <img src="https://komarev.com/ghpvc/?username=zayennn&label=👁️%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
