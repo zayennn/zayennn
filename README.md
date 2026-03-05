@@ -53,7 +53,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="./gif/React Native Logo_transparent.gif" width="30" />
   <img src="./png/tailwind.png" width="30" />
   <img src="./svg/Vite.js.svg" width="30"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="./svg/Bootstrap.svg" width="30" />
 </div>
 
 #### ⚙️ **Backend Development**
