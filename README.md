@@ -74,6 +74,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="./gif/Git Logo.gif" width="40" />
   <img src="./gif/Github.gif" width="40" />
   <img src="./svg/Visual Studio Code.svg" width="30" />
+  <img src="./svg/IntelliJ IDEA.svg" width="30" />
   <img src="./svg/Figma.svg" width="30" />
   <img src="./svg/Postman.svg" width="30" />
 </div>
