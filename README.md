@@ -45,8 +45,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Tech Stack & Skills**
 
 #### 🎨 **Frontend Development**
-<div align="left">
-
+<div align="left" style="display: flex; align-items: center; gap: 1.5rem;">
   <img src="./svg/html.svg" width="30"/>
   <img src="./svg/css.svg" width="30"/>
   <img src="./gif/javascript.gif" width="30" />
@@ -57,25 +56,26 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 
 #### ⚙️ **Backend Development**
-<div align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<div align="left" style="display: flex; align-items: center; gap: 1.5rem;">
+  <img src="./svg/PHP.svg" width="30" />
+  <img src="./svg/Laravel.svg" width="30" />
+  <img src="./svg/Python.svg" width="30" />
+  <img src="./svg/Flask.svg" width="30" />
+  <img src="./svg/Node.js.svg" width="30" />
+  <img src="./svg/c.svg" width="30" />
   <img src="./gif/TypeScript.gif" width="40"/>
   <img src="./gif/Java logo.gif" width="40" />
 </div>
 
 #### 🗄️ **Databases & Tools**
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<div align="left" style="display: flex; align-items: center; gap: 1.5rem;">
+  <img src="./svg/MySQL.svg" width="30"/>
+  <img src="./svg/PostgresSQL.svg" width="30" />
   <img src="./gif/Git Logo.gif" width="40" />
   <img src="./gif/Github.gif" width="40" />
-  <img src="./gif/VS code logo animation.gif" width="40" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="./svg/Visual Studio Code.svg" width="30" />
+  <img src="./svg/Figma.svg" width="30" />
+  <img src="./svg/Postman.svg" width="30" />
 </div>
 
 <br>
