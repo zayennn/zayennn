@@ -45,7 +45,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Tech Stack & Skills**
 
 #### 🎨 **Frontend Development**
-<div align="left" style="display: flex; align-items: center; gap: 1.5rem;">
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
   <img src="./svg/html.svg" width="30"/>
   <img src="./svg/css.svg" width="30"/>
   <img src="./gif/javascript.gif" width="30" />
@@ -56,7 +56,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 
 #### ⚙️ **Backend Development**
-<div align="left" style="display: flex; align-items: center; gap: 1.5rem;">
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
   <img src="./svg/PHP.svg" width="30" />
   <img src="./svg/Laravel.svg" width="30" />
   <img src="./svg/Python.svg" width="30" />
@@ -68,7 +68,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 
 #### 🗄️ **Databases & Tools**
-<div align="left" style="display: flex; align-items: center; gap: 1.5rem;">
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
   <img src="./svg/MySQL.svg" width="30"/>
   <img src="./svg/PostgresSQL.svg" width="30" />
   <img src="./gif/Git Logo.gif" width="40" />
