@@ -62,7 +62,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="./svg/Python.svg" width="30" />
   <img src="./svg/Flask.svg" width="30" />
   <img src="./svg/Node.js.svg" width="30" />
-  <img src="./svg/c.svg" width="30" />
+  <img src="./svg/C.svg" width="30" />
   <img src="./gif/TypeScript.gif" width="40"/>
   <img src="./gif/Java logo.gif" width="40" />
 </div>
