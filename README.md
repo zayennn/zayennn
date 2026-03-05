@@ -141,6 +141,35 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 ### 🎯 **3D Contribution Graph**
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
+<div style="width:100%; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://wakatime.com/share/@Zayenn/2a7d9825-d3c7-44cc-adbf-796f0b995c6e.svg" width="45%">
+  <img src="https://wakatime.com/share/@Zayenn/025c8681-b0cd-452a-ab30-819e383955c7.svg" width="45%">
+</div>
+
+</td>
+<td valign="top" width="40%">
+<p align="right">
+
+### 📈 **Coding Activity**
+
+<p align="center">
+  <img src="./metrics.svg">
+</p>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation showing GitHub contributions"/>
+
+</p>
+</td>
+</tr>
+</table>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
+
 <!--START_SECTION:waka-->
 
 **🐱 My GitHub Data** 
@@ -220,29 +249,6 @@ C                        1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.30% as on ⏰ 5-Mar-2026
-
-<div style="width:100%; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://wakatime.com/share/@Zayenn/2a7d9825-d3c7-44cc-adbf-796f0b995c6e.svg" width="45%">
-  <img src="https://wakatime.com/share/@Zayenn/025c8681-b0cd-452a-ab30-819e383955c7.svg" width="45%">
-</div>
-
-</td>
-<td valign="top" width="40%">
-<p align="right">
-
-### 📈 **Coding Activity**
-
-<p align="center">
-  <img src="./metrics.svg">
-</p>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/zayennn/zayennn/output/snake.svg" alt="Snake animation showing GitHub contributions"/>
-
-</p>
-</td>
-</tr>
-</table>
 
 <br>
 <div align="center">
