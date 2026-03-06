@@ -172,6 +172,8 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 </div>
 <br>
 
+<!-- test -->
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs-blue?style=flat)
 
