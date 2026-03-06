@@ -44,7 +44,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Tech Stack & Skills**
 
-#### <img src="./emot/Artist Palette.webp" width="30"> **Frontend Development**
+#### <img src="./emot/Artist Palette.webp" width="20"> **Frontend Development**
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
   <img src="./svg/html.svg" width="30"/>
   <img src="./svg/css.svg" width="30"/>
@@ -67,7 +67,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="./gif/Java logo.gif" width="40" />
 </div>
 
-#### <img src="./emot/Card Index Dividers.webp" width="30"> **Databases & Tools**
+#### <img src="./emot/Card Index Dividers.webp" width="20"> **Databases & Tools**
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
   <img src="./svg/MySQL.svg" width="30"/>
   <img src="./svg/PostgresSQL.svg" width="30" />
