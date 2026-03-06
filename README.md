@@ -276,14 +276,8 @@ C                        1 repo              ░░░░░░░░░░░�
 <img src="https://komarev.com/ghpvc/?username=zayennn&label=👁️%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
   
 <div style="display: flex; align-items: center; justify-content: center; gap: 5px">
-  <p>Made with</p>
+  <p>Made with <img src="./emot/Red Heart.webp" width="15"> and <img src="./emot/Hot Beverage.webp" width="15"></p>
   <p>
-    <img src="./emot/Red Heart.webp" width="15">
-  </p>
-  <p>and</p>
-  <p>
-    <img src="./emot/Hot Beverage.webp" width="15">
-  </p>
 </div>
 
   
