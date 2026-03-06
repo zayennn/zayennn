@@ -89,7 +89,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 |--------------|--------------------------------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------|
 | **Frontend** | <img src="./gif/React Native Logo_transparent.gif" width="30" />                                       | 🟡 **Learning**  | ![React Progress](https://img.shields.io/badge/75%25-61DAFB?style=flat-square&logo=react&logoColor=white)   |
 | **Backend**  | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | 🟡 **Learning**  | ![Python Progress](https://img.shields.io/badge/60%25-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Database** | <img src="./svg/MySQL.svg" />                                                                          | 🟢 **Mastering** | ![DB Progress](https://img.shields.io/badge/85%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Database** | <img src="./svg/MySQL.svg" width="30" />                                                                          | 🟢 **Mastering** | ![DB Progress](https://img.shields.io/badge/85%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Language** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />     | 🟡 **Learning**  | ![Java Progress](https://img.shields.io/badge/70%25-ED8B00?style=flat-square&logo=java&logoColor=white)     |
 
 </div>
