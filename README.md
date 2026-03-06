@@ -35,8 +35,8 @@
 I'm a passionate Fullstack Web Developer specializing in building scalable, responsive, and user-friendly web applications. With expertise in both frontend and backend technologies, I create complete digital solutions from concept to deployment. I believe in writing clean, maintainable code and creating exceptional user experiences.
 
 - <img src="./emot/Telescope.webp" width="20"> Currently working on **Laravel & React fullstack projects**
-- <img src="./emot/Desert Island.webp" width="20"> Mastering **Advanced React patterns & Python microservices**
-- 👯 Looking to collaborate on **open-source web applications**
+- <img src="./emot/Books.webp" width="20"> Mastering **Advanced React patterns & Python microservices**
+- <img src="./emot/Men Holding Hands Light Skin Tone.png" width="20"> Looking to collaborate on **open-source web applications**
 - <img src="./emot/Thought Balloon.webp" width="20"> Ask me about **web development, best practices, or career advice**
 - <img src="./emot/Sparkles.webp" width="20"> Fun fact: **I can debug code in my dreams!**
 
