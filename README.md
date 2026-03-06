@@ -26,25 +26,25 @@
   <tr>
     <td valign="top" width="60%">
       
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="45" height="45" /> **About Me**
+# <img src="./emot/Rocket.webp" width="45"> **About Me**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300" align="right" alt="Developer GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" alt="Developer GIF"/>
 </div>
 
 I'm a passionate Fullstack Web Developer specializing in building scalable, responsive, and user-friendly web applications. With expertise in both frontend and backend technologies, I create complete digital solutions from concept to deployment. I believe in writing clean, maintainable code and creating exceptional user experiences.
 
-- 🔭 Currently working on **Laravel & React fullstack projects**
-- 🌱 Mastering **Advanced React patterns & Python microservices**
+- <img src="./emot/Telescope.webp" width="20"> Currently working on **Laravel & React fullstack projects**
+- <img src="./emot/Desert Island.webp" width="20"> Mastering **Advanced React patterns & Python microservices**
 - 👯 Looking to collaborate on **open-source web applications**
-- 💬 Ask me about **web development, best practices, or career advice**
-- ⚡ Fun fact: **I can debug code in my dreams!**
+- <img src="./emot/Thought Balloon.webp" width="20"> Ask me about **web development, best practices, or career advice**
+- <img src="./emot/Sparkles.webp" width="20"> Fun fact: **I can debug code in my dreams!**
 
 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Tech Stack & Skills**
 
-#### 🎨 **Frontend Development**
+#### <img src="./emot/Artist Palette.webp" width="30"> **Frontend Development**
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
   <img src="./svg/html.svg" width="30"/>
   <img src="./svg/css.svg" width="30"/>
@@ -67,7 +67,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <img src="./gif/Java logo.gif" width="40" />
 </div>
 
-#### 🗄️ **Databases & Tools**
+#### <img src="./emot/Card Index Dividers.webp" width="30"> **Databases & Tools**
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
   <img src="./svg/MySQL.svg" width="30"/>
   <img src="./svg/PostgresSQL.svg" width="30" />
@@ -140,7 +140,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
   <tr>
     <td valign="top" width="60%">
       
-### 🎯 **3D Contribution Graph**
+### <img src="./emot/Bullseye.png" width="30"> **3D Contribution Graph**
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 <div style="width:100%; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -152,7 +152,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <td valign="top" width="40%">
 <p align="right">
 
-### 📈 **Coding Activity**
+### <img src="./emot/Chart Increasing.webp" width="30"> **Coding Activity**
 
 <p align="center">
   <img src="./metrics.svg">
@@ -269,11 +269,23 @@ C                        1 repo              ░░░░░░░░░░░�
   
 <img height="120" src="https://i.imgflip.com/65efzo.gif" alt="Thank You GIF"/>
   
-<h3>⭐ Star my repositories if you find them interesting! ⭐</h3>
+<h3>
+  <img src="./emot/Dizzy.webp" width="30"> Star my repositories if you find them interesting! <img src="./emot/Dizzy.webp" width="30">
+</h3>
   
 <img src="https://komarev.com/ghpvc/?username=zayennn&label=👁️%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
   
-<p>Made with ❤️ and ☕</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 5px">
+  <p>Made with</p>
+  <p>
+    <img src="./emot/Red Heart.webp" width="15">
+  </p>
+  <p>and</p>
+  <p>
+    <img src="./emot/Hot Beverage.webp" width="15">
+  </p>
+</div>
+
   
 </div>
 
