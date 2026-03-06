@@ -98,7 +98,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <td valign="top" width="40%">
 <p align="right">
 
-### 🎯 **GitHub Analytics**
+### <img src="./emot/Bullseye.png" width="35"> **GitHub Analytics**
   
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zayennn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
@@ -106,7 +106,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayennn&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
-### 🏆 **GitHub Trophies**
+### <img src="./emot/Trophy.webp" width="30"> **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=zayennn&theme=radical&no-frame=true&no-bg=true&row=2&column=2&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 
 ### 🌐 **Connect With Me**
