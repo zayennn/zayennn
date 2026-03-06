@@ -265,7 +265,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 <div align="center">
   
-### 🎉 **Thanks for Visiting!**
+### <img src="./emot/Party Popper.webp" width="40"> **Thanks for Visiting!**
   
 <img height="120" src="https://i.imgflip.com/65efzo.gif" alt="Thank You GIF"/>
   
