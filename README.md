@@ -1,6 +1,6 @@
-<div align="center">
-   <img style="width: 100%; height: 250px; object-fit: cover;" src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47and826h3relm2a23ojr8cfjbv67r8xu4mg5z52r1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Coding Animation"/>
