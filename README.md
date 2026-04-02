@@ -173,7 +173,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
@@ -181,7 +181,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 288.3 kB Used in GitHub's Storage 
+> 📦 288.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,757 Contributions in the Year 2026
  > 
@@ -249,7 +249,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2026 02:51:29 UTC
+ Last Updated on 02/04/2026 02:35:30 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 24.70% as on ⏰ 1-Apr-2026
