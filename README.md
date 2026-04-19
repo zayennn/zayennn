@@ -173,7 +173,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -181,7 +181,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 288.7 kB Used in GitHub's Storage 
+> 📦 288.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,835 Contributions in the Year 2026
  > 
@@ -191,6 +191,51 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1153 commits        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+🌆 Daytime                911 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌃 Evening                967 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+🌙 Night                  1201 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   745 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Tuesday                  1136 commits        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+Wednesday                315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Thursday                 329 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Friday                   579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Saturday                 472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Sunday                   656 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Java                     1 hr 34 mins        █████████████████░░░░░░░░   68.94 % 
+Python                   42 mins             ████████░░░░░░░░░░░░░░░░░   31.06 % 
+
+🔥 Editors: 
+IntelliJ IDEA            1 hr 34 mins        █████████████████░░░░░░░░   68.94 % 
+VS Code                  42 mins             ████████░░░░░░░░░░░░░░░░░   31.06 % 
+
+🐱‍💻 Projects: 
+Kuliah Semester 2        1 hr 28 mins        ████████████████░░░░░░░░░   64.45 % 
+pertemuan 3              38 mins             ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+Belajar Java - GPT       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+pemrogramman dasar       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Belajar Swing            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+
+💻 Operating System: 
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -204,7 +249,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 02:39:34 UTC
+ Last Updated on 19/04/2026 02:55:57 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.36% as on ⏰ 18-Apr-2026
