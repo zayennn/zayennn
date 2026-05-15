@@ -173,87 +173,36 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.72%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 301.4 kB Used in GitHub's Storage 
+> 📦 302.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,263 Contributions in the Year 2026
+> 🏆 2,287 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 138 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1289 commits        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-🌆 Daytime                1034 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-🌃 Evening                1282 commits        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-🌙 Night                  1482 commits        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   745 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Tuesday                  1203 commits        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Wednesday                393 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Thursday                 478 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Friday                   710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Saturday                 898 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Sunday                   660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Java                     1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   33.66 % 
-JavaScript               48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-CSS                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-PHP                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Blade Template           13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-
-🔥 Editors: 
-Antigravity              1 hr 41 mins        █████████████░░░░░░░░░░░░   51.72 % 
-IntelliJ IDEA            1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.03 % 
-VS Code                  27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-
-🐱‍💻 Projects: 
-portfolio                1 hr 41 mins        █████████████░░░░░░░░░░░░   51.72 % 
-Kuliah Semester 2        1 hr                ████████░░░░░░░░░░░░░░░░░   30.68 % 
-belajar-php-dan-laravel  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-belajar php dan laravel  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Belajar Swing            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-
-💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               35 repos            ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Python                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-PHP                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+JavaScript               35 repos            ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+CSS                      31 repos            █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Python                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+PHP                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 03:40:18 UTC
+ Last Updated on 15/05/2026 03:43:02 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.49% as on ⏰ 14-May-2026
