@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4297 Commits
+                            4304 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2294,7 +2294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zayennn/flower-animation-2.github.io</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2342,7 +2342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zayennn/OOP-Java-Kuliah-Semester-2</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2390,7 +2390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zayennn/ProjectStrukturDataSemester2-UAS-LinkedList</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2438,7 +2438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zayennn/joki-ecommerce-emir</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2532,7 +2532,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EACwQAAEDAgQFBAEFAAAAAAAAAAECAwQFEQAGEiETMUFRgQcUImEyQmKRocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAACBf/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEESESE//aAAwDAQACEQMRAD8AU2qmG4r79tfDbK7d7C+CDL0ebniSudWa7UG5azrbjRZHDQyOgQgdu+LxTM2VQprNOI944wtDV7Wvb72wd5aeYEWnutpeMlEgB1to9EXuOdhufOELXOuTSxq1LdjZkZ6YYj8OdLM4RSA1KUbrcQei7cyLc+u3XFSE4mciJjpZkog6+ANBIVe4Jvsb74qwMErJZATA3KFsIEz7VfUqmUCI6mCpE6o6SGm292wf3r/wY46Rkk1OhDN9CzI3AjSjxJjT6RoZd1/PqB+fLxbAlpHC84QclSnXciZxpjpCoftGZqUH9DvGQnUntsf6GHDjL51F0uIO5onIb9HpLJoDdTQ7WGla5SHnLOuOEA6/sWtyvtbFoBjJXqkB7/LUpICHpVDiPuKTt87KTceEj+MI3o9nCsHKrrUiSqTwZS20LfKlqCdKTa9+VycVekBRqT6ej2f/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgQHAgMF/8QALBAAAQMDAgQEBwEAAAAAAAAAAQIDBAAFERIhBhMxQSJRYoEHFCNhcZGh0f/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAaEQADAQEBAQAAAAAAAAAAAAAAARECEgMi/9oADAMBAAIRAxEAPwBS2AYjR9Ip5YFBrhxCvILNVzBcdVb2CtODpHQ5pY8ZZ+H0gQkLXJcYcDQSNys5ApQAm333lLYunzJciKVyi2pO+sHfHo7ZJqE/eUSpch/kqiuOL1ONtjbXgZV179feoDNrkx+Foke5Rg3LbDmUnHhJJ8j+DUGYItueLV0kSoshf1NOBhaSdljfoakfXT5B6+HymhjbVFxEdhbobQSEFRGw+9N5brVujMQg6ttGQgFw4B7/ALNVbbZLjkZvUQfCO1MeJ57q+HLPFcQ041JUAvWnJ8KdQx7gVTYqOlXDJNnfuSC6ToQFZKs7nftXfgobYjhptpJSk4yrrW+0pCbYABtn/aqnj7i272C7sRrZI5bTsdLygRnKipQJ/gpsYSRt7dh//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAACAcEBQb/xAAuEAABAwMCBAMIAwAAAAAAAAABAgMEAAURBiEHEhMxFDJxFSJBUWGBkdFTgqH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EAB4RAAICAgMBAQAAAAAAAAAAAAEDAAIEERIhIgUx/9oADAMBAAIRAxEAPwA7ITlwJAJWTgADvVB4b6dg3IyU3W3+IJIQ3zOlsp2Jzt6VhcO9NPag11AgsrDQQeu64BnCEfvYfekyjh3GYnRpMea43009I9U5CySTt9z2+lKP5/lBLx7rJ53hGu1oet86WyW1ltl0o6gG3nx3rVuIOR6UleNmiDZ9MSbnAdcXDS4OsyrcoC1jfPxGcfmoASj+PP8AWtEXuR76i7ureRK9wvnosmuJKkIbU6tnpjqEn5HbcfSqFcdStX24R7XdLfKgrbHiA+XcN+fGB81Yyds9t6PCblLj6uhqYeKFOvBpZwDlKgkHvS1s+kLU8zMZmJelNtr90OudvxigbZi28qmT56VNwwto3OV1lcJNytV4hyOQ2p2GtpPMrKyAjZffvneiqjHKNv8AB+6ufH9hek/ZsWyS5TLE5Uhl9KnObmSAjA39TUNT5E+lEgWJOzGskUsBWg1qf//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBP/EACoQAAEDAwIFAwUBAAAAAAAAAAECAwQABRESIQYHEzFBIiNhUXGBkaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABsRAQEBAAMBAQAAAAAAAAAAAAECAAMEEUES/9oADAMBAAIRAxEAPwChXJTUmOh1hWtpwa0q+ooW5qcbzrbdJNlgWkSG+hl1513QTr7Bsecf7tSRYZBVYLetZ3VHbJH4FD/Mic3xFeQ3adca5w3jFdZfIbcdRgEOIRnOgZO/2pvYWZ9nHrhSfr7tDy6sNxTerXdpRC44inpk5B0LGUZ8efr5pdclhKgPip85a3+6OcWx4IuUmVa4zi4ylB7LesIXowM9sDIz/MYpkel+s71qAIMqlXcLLxTb20k4Ia8fap65zOi5cVwrrw6px5fQ0OONtkYWCe+fg/ynlTiupjO1TBx/cZMXja8xmnPZTKUQk/JOam5VPPNRwgj7tbycvEawOTY11aWZch9pbahg6e4yT+T+6apE33TvQXyZYZu0u5vT2W3VRAhTKSPSlWTvjydh3pWecVrO9Cbr7jUm/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgMEAAECB//EAC4QAAEDAwIEBQIHAAAAAAAAAAECAwQABREGIRITIjEjQVFhcTOhFFJigZGi0f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAeEQACAgIDAQEAAAAAAAAAAAABAgARAwQhIjETQf/aAAwDAQACEQMRAD8AzUlplwtQu3KKpmREUkBxLavEKt/L4xVfVGq27XKciTvxLbvIC+AJK8ZWes47DHrVu4wzBuiHnLoy2gqCy0mOpZc9N89/KjGuJzSbzHmts9EpPApJd6zwfnCVfFJYezWY0/UUDHbLwvlrj84B2I62k84fTAHnn3rh7TyZhS4ic+hCUhCeobgedHnrtItemY0G3LabYabSjBSQsggkgD0270OcnXZ151S5jvEVHPCoIH8UH5j8hHzFlHFRVraY/Emu3CU5HdjR3SwyGz7kjO/z9qB6nlMOXSPc0ECO6lKHQNsei9vnH71vUS1OQrpxqJ8bb9O6+1QtxWQl9soCm+YWuFW44cHb+oqzrBQtV7JudmZrJ8iZ6/xzEYt535jf1MA4ONiPfOK87ukWSiQEqbcykY+5qe1Nhq9NsJKihlZQnJ3xkd6Wy+XzyAy2Me6v9rG3kVa4hdPEWuzP/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABAMFAQII/8QALBAAAgEDAwEFCQEAAAAAAAAAAQIDAAQREiExBRNBYYHwIkJRUnKhsbLB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAQEAAwEAAAAAAAAAAAAAAAABAgMREv/aAAwDAQACEQMRAD8A6mDhiQN8VCJl3MMZdQcEpjmjdTEojPZL3bEdx9Y+9YhvooJRZTvi4igErAKcac4G/GduKLwtmkyDpAHAB54qWNiyAkYNAt5rmaEtcRLCwclWR9alQTg93Ixt406FxLEki8MAaAN5KrQFsOpBUhSCODnfwoL9RLT6UUIhPta99R/yrHqbaY4tgQzlSD8Cpqu6YoF0mPnP65/po11ebjbYsbuSK2RScdq5wg5Pl4Ct7HUkJJiKanZtA93J9HzqO/Jw/wBDfilWy6reMsSSVG+ajKx//9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
