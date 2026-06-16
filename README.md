@@ -175,13 +175,13 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 319.1 kB Used in GitHub's Storage 
+> 📦 319.3 kB Used in GitHub's Storage 
  > 
 > 🏆 2,618 Contributions in the Year 2026
  > 
@@ -218,19 +218,19 @@ Sunday                   770 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     4 hrs 55 mins       █████████████████████████   98.14 % 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Java                     1 hr 17 mins        █████████████████████████   99.99 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 1 min         █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 18 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Project Akhir PBO Semeste2 hrs 55 mins       ███████████████░░░░░░░░░░   58.32 % 
-Project Struktur Data Sem1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   30.88 % 
-Project Akhir PBO - S2   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Project Akhir PBO - S2   32 mins             ██████████░░░░░░░░░░░░░░░   41.69 % 
+Project Akhir PBO Semeste26 mins             ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Project Struktur Data Sem19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
 
 💻 Operating System: 
-Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -246,7 +246,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2026 04:31:02 UTC
+ Last Updated on 16/06/2026 04:26:43 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 45.27% as on ⏰ 15-Jun-2026
