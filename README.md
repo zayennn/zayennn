@@ -181,7 +181,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 319.5 kB Used in GitHub's Storage 
+> 📦 319.8 kB Used in GitHub's Storage 
  > 
 > 🏆 2,811 Contributions in the Year 2026
  > 
@@ -218,17 +218,16 @@ Sunday                   771 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     45 mins             █████████████████████████   98.26 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Project Akhir PBO - S2   46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -244,7 +243,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 03:45:52 UTC
+ Last Updated on 07/07/2026 03:38:00 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 51.01% as on ⏰ 6-Jul-2026
