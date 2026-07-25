@@ -173,13 +173,15 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.80%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 324.3 kB Used in GitHub's Storage 
+> 📦 324.5 kB Used in GitHub's Storage 
  > 
 > 🏆 3,000 Contributions in the Year 2026
  > 
@@ -247,7 +249,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:50:56 UTC
+ Last Updated on 25/07/2026 02:49:32 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 55.94% as on ⏰ 24-Jul-2026
