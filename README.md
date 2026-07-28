@@ -173,7 +173,9 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2010%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -218,22 +220,27 @@ Sunday                   771 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     1 hr 45 mins        ██████████████████░░░░░░░   73.10 % 
-Java                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Dart                     1 hr 45 mins        ████████████████████░░░░░   80.93 % 
+Java                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        ████████████████████░░░░░   78.51 % 
-IntelliJ IDEA            31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+VS Code                  1 hr 53 mins        ██████████████████████░░░   86.91 % 
+IntelliJ IDEA            17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 🐱‍💻 Projects: 
-calitrack                1 hr 53 mins        ████████████████████░░░░░   78.51 % 
-Belajar Java - GPT       23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Project Akhir PBO - S2   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+calitrack                1 hr 53 mins        ██████████████████████░░░   86.91 % 
+Belajar Java - GPT       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -249,7 +256,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:23:38 UTC
+ Last Updated on 28/07/2026 02:42:24 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 56.76% as on ⏰ 27-Jul-2026
