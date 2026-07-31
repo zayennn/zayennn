@@ -183,7 +183,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 324.8 kB Used in GitHub's Storage 
+> 📦 324.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3,000 Contributions in the Year 2026
  > 
@@ -220,21 +220,16 @@ Sunday                   771 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     1 hr 45 mins        ████████████████████░░░░░   80.93 % 
-Java                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Java                     17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        ██████████████████████░░░   86.91 % 
-IntelliJ IDEA            17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+IntelliJ IDEA            17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calitrack                1 hr 53 mins        ██████████████████████░░░   86.91 % 
-Belajar Java - GPT       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Belajar Java - GPT       17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -256,7 +251,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 02:35:06 UTC
+ Last Updated on 31/07/2026 02:59:21 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.58% as on ⏰ 30-Jul-2026
