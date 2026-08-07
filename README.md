@@ -173,17 +173,13 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2010%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.80%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 324.8 kB Used in GitHub's Storage 
+> 📦 324.9 kB Used in GitHub's Storage 
  > 
 > 🏆 3,000 Contributions in the Year 2026
  > 
@@ -193,51 +189,6 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1375 commits        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-🌆 Daytime                1372 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-🌃 Evening                1610 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌙 Night                  1534 commits        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   987 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Tuesday                  1325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Wednesday                409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Thursday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Friday                   806 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Saturday                 981 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Sunday                   771 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -251,7 +202,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:44:23 UTC
+ Last Updated on 07/08/2026 02:47:51 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.50% as on ⏰ 6-Aug-2026
