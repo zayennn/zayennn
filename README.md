@@ -173,44 +173,44 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 324.5 kB Used in GitHub's Storage 
+> 📦 329.0 kB Used in GitHub's Storage 
  > 
-> 🏆 3,009 Contributions in the Year 2026
+> 🏆 3,028 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 142 Public Repositories 
+> 📜 143 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1375 commits        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-🌆 Daytime                1379 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-🌃 Evening                1610 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌙 Night                  1534 commits        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌞 Morning                1375 commits        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌆 Daytime                1379 commits        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+🌃 Evening                1630 commits        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+🌙 Night                  1564 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   987 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Tuesday                  1325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Wednesday                409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Thursday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Friday                   813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Saturday                 981 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Sunday                   771 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Monday                   987 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Tuesday                  1325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Wednesday                409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Thursday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Friday                   813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Saturday                 1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Sunday                   801 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 ```
 
 
@@ -220,26 +220,30 @@ Sunday                   771 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     50 mins             ███████████░░░░░░░░░░░░░░   45.91 % 
-JavaScript               35 mins             ████████░░░░░░░░░░░░░░░░░   32.34 % 
-CSS                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+JavaScript               51 mins             ████████░░░░░░░░░░░░░░░░░   33.66 % 
+HTML                     50 mins             ████████░░░░░░░░░░░░░░░░░   33.45 % 
+CSS                      45 mins             ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arrow-game.github.io     1 hr 49 mins        █████████████████████████   100.00 % 
+arrow-game.github.io     1 hr 49 mins        ██████████████████░░░░░░░   72.40 % 
+dating-invitation        37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+date-with-me             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (9.4%)
+⏱ AI Coding Time: 10 mins (6.81%)
 
-✍️ 0 lines written by AI, 1,406 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,200 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -257,17 +261,17 @@ Windows                  1 hr 49 mins        ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-CSS                      31 repos            █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Blade                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JavaScript               37 repos            ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+CSS                      31 repos            █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Blade                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 
 
 
 
- Last Updated on 08/08/2026 01:47:28 UTC
+ Last Updated on 09/08/2026 01:53:24 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 60.03% as on ⏰ 8-Aug-2026
