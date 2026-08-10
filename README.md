@@ -173,7 +173,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2031%20mins-blue?style=flat)
 
@@ -183,7 +183,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 329.0 kB Used in GitHub's Storage 
+> 📦 329.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3,028 Contributions in the Year 2026
  > 
@@ -220,30 +220,30 @@ Sunday                   801 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               51 mins             ████████░░░░░░░░░░░░░░░░░   33.66 % 
-HTML                     50 mins             ████████░░░░░░░░░░░░░░░░░   33.45 % 
-CSS                      45 mins             ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JavaScript               1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   39.65 % 
+CSS                      1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   32.27 % 
+HTML                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arrow-game.github.io     1 hr 49 mins        ██████████████████░░░░░░░   72.40 % 
-dating-invitation        37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-date-with-me             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+arrow-game.github.io     1 hr 49 mins        █████████████░░░░░░░░░░░░   52.98 % 
+dating-invitation        1 hr 33 mins        ███████████░░░░░░░░░░░░░░   45.08 % 
+date-with-me             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (6.81%)
+⏱ AI Coding Time: 10 mins (4.98%)
 
-✍️ 0 lines written by AI, 2,200 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,424 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -271,7 +271,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 01:53:24 UTC
+ Last Updated on 10/08/2026 01:58:29 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 60.30% as on ⏰ 9-Aug-2026
