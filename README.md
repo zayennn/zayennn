@@ -183,7 +183,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 329.9 kB Used in GitHub's Storage 
+> 📦 330.1 kB Used in GitHub's Storage 
  > 
 > 🏆 3,028 Contributions in the Year 2026
  > 
@@ -220,42 +220,27 @@ Sunday                   801 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   39.65 % 
-CSS                      1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   32.27 % 
-HTML                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JavaScript               46 mins             ████████████░░░░░░░░░░░░░   47.89 % 
+CSS                      43 mins             ███████████░░░░░░░░░░░░░░   44.12 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arrow-game.github.io     1 hr 49 mins        █████████████░░░░░░░░░░░░   52.98 % 
-dating-invitation        1 hr 33 mins        ███████████░░░░░░░░░░░░░░   45.08 % 
-date-with-me             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+dating-invitation        1 hr 33 mins        ████████████████████████░   95.87 % 
+date-with-me             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (4.98%)
-
-✍️ 0 lines written by AI, 3,424 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 8 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 257 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -271,7 +256,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 02:06:29 UTC
+ Last Updated on 15/08/2026 01:22:27 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 61.68% as on ⏰ 14-Aug-2026
