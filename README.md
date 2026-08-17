@@ -183,7 +183,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 330.2 kB Used in GitHub's Storage 
+> 📦 330.4 kB Used in GitHub's Storage 
  > 
 > 🏆 3,028 Contributions in the Year 2026
  > 
@@ -220,18 +220,16 @@ Sunday                   801 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               31 mins             ██████████████░░░░░░░░░░░   56.00 % 
-CSS                      21 mins             ██████████░░░░░░░░░░░░░░░   39.18 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dating-invitation        55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -253,7 +251,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 01:27:01 UTC
+ Last Updated on 17/08/2026 01:23:02 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.22% as on ⏰ 16-Aug-2026
