@@ -173,44 +173,44 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 329.4 kB Used in GitHub's Storage 
+> 📦 329.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3,028 Contributions in the Year 2026
+> 🏆 3,068 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 143 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1375 commits        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-🌆 Daytime                1379 commits        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-🌃 Evening                1630 commits        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-🌙 Night                  1564 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+🌞 Morning                1375 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+🌆 Daytime                1379 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+🌃 Evening                1672 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌙 Night                  1565 commits        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   987 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Tuesday                  1325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Wednesday                409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Thursday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Friday                   813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Saturday                 1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Sunday                   801 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Monday                   988 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Tuesday                  1325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Wednesday                409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Thursday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Friday                   813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Saturday                 1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Sunday                   843 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 ```
 
 
@@ -220,16 +220,20 @@ Sunday                   801 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 19 mins        ████████████░░░░░░░░░░░░░   47.21 % 
+Blade Template           1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   41.64 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fm-logistic-absensi-karya2 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -241,17 +245,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               37 repos            ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-CSS                      31 repos            █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Blade                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JavaScript               37 repos            ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+CSS                      31 repos            █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+PHP                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Blade                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 
 
 
 
- Last Updated on 30/08/2026 04:16:36 UTC
+ Last Updated on 31/08/2026 04:21:32 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.09% as on ⏰ 30-Aug-2026
