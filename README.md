@@ -173,7 +173,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2031%20mins-blue?style=flat)
 
@@ -183,9 +183,9 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 329.7 kB Used in GitHub's Storage 
+> 📦 329.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,068 Contributions in the Year 2026
+> 🏆 3,072 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,21 +196,21 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1375 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-🌆 Daytime                1379 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-🌃 Evening                1672 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-🌙 Night                  1565 commits        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+🌞 Morning                1375 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌆 Daytime                1379 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+🌃 Evening                1684 commits        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+🌙 Night                  1565 commits        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   988 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Tuesday                  1325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Wednesday                409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Thursday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Friday                   813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Saturday                 1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Sunday                   843 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Monday                   1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Tuesday                  1325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Wednesday                409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Thursday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Friday                   813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Saturday                 1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   843 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 ```
 
 
@@ -220,20 +220,20 @@ Sunday                   843 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      1 hr 19 mins        ████████████░░░░░░░░░░░░░   47.21 % 
-Blade Template           1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   41.64 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+PHP                      1 hr 34 mins        ████████████░░░░░░░░░░░░░   46.66 % 
+Blade Template           1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.93 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fm-logistic-absensi-karya2 hrs 47 mins       █████████████████████████   100.00 % 
+fm-logistic-absensi-karya3 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 04:21:32 UTC
+ Last Updated on 01/09/2026 04:07:02 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.37% as on ⏰ 31-Aug-2026
