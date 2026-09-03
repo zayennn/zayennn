@@ -173,7 +173,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2031%20mins-blue?style=flat)
 
@@ -183,7 +183,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 330.1 kB Used in GitHub's Storage 
+> 📦 329.5 kB Used in GitHub's Storage 
  > 
 > 🏆 3,072 Contributions in the Year 2026
  > 
@@ -220,20 +220,20 @@ Sunday                   885 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      1 hr 34 mins        ████████████░░░░░░░░░░░░░   46.66 % 
-Blade Template           1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.93 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+PHP                      1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.30 % 
+Blade Template           1 hr 28 mins        ███████████░░░░░░░░░░░░░░   42.59 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fm-logistic-absensi-karya3 hrs 21 mins       █████████████████████████   100.00 % 
+fm-logistic-absensi-karya3 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 03:29:22 UTC
+ Last Updated on 03/09/2026 03:31:01 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 66.91% as on ⏰ 2-Sep-2026
