@@ -183,7 +183,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 330.0 kB Used in GitHub's Storage 
+> 📦 330.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3,072 Contributions in the Year 2026
  > 
@@ -220,20 +220,20 @@ Sunday                   885 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.30 % 
-Blade Template           1 hr 28 mins        ███████████░░░░░░░░░░░░░░   42.59 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Blade Template           21 mins             ████████████░░░░░░░░░░░░░   49.67 % 
+PHP                      14 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
+JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fm-logistic-absensi-karya3 hrs 27 mins       █████████████████████████   100.00 % 
+fm-logistic-absensi-karya42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 03:31:03 UTC
+ Last Updated on 07/09/2026 03:29:50 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.00% as on ⏰ 6-Sep-2026
