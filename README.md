@@ -183,7 +183,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 330.2 kB Used in GitHub's Storage 
+> 📦 329.8 kB Used in GitHub's Storage 
  > 
 > 🏆 3,072 Contributions in the Year 2026
  > 
@@ -220,20 +220,17 @@ Sunday                   885 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           21 mins             ████████████░░░░░░░░░░░░░   49.67 % 
-PHP                      14 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
-JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Blade Template           5 mins              █████████████████████████   98.24 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fm-logistic-absensi-karya42 mins             █████████████████████████   100.00 % 
+fm-logistic-absensi-karya6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +252,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 03:29:50 UTC
+ Last Updated on 08/09/2026 03:35:51 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.28% as on ⏰ 7-Sep-2026
