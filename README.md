@@ -183,7 +183,7 @@ I'm a passionate Fullstack Web Developer specializing in building scalable, resp
 
 **🐱 My GitHub Data** 
 
-> 📦 330.0 kB Used in GitHub's Storage 
+> 📦 330.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3,072 Contributions in the Year 2026
  > 
@@ -220,17 +220,16 @@ Sunday                   885 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           5 mins              █████████████████████████   98.24 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fm-logistic-absensi-karya6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -252,7 +251,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 03:40:42 UTC
+ Last Updated on 10/09/2026 03:38:25 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.82% as on ⏰ 9-Sep-2026
